@@ -1,0 +1,155 @@
+Neil Irwin
+Thanks, Chair Powell. Neil Irwin with Axios. Back on the rates path, the SEP showed a quite large shift of rate cut expectations relative to March. That's a period in which the economic data flow hasn't been that dramatic a shift. How-can you provide some color on what changed in attitudes on the Committee over the last three months to see a much shallower path of rate cuts this year? 
+
+CHAIRMAN POWELL. 
+The big thing that changed was the inflation forecast. So the inflation forecast moved up several tenths for the end of the year. And, as I mentioned earlier in the-you know, what did we take away from this? We had really, really good inflation data in the second half of last year, then kind of a pause in progress in the first quarter. And what we took away from that was that it's probably going to take longer to get the confidence that we need to begin to loosen policy. So the sense of that is that rate cuts might take place this year,or  take place next year. You know, we-there are fewer rate cuts in the median this year, but there's one more next year. So you really-if you look at year-end 2025 and 26, you're almost exactly where you would have been, just it-just it's moved later because of that progress. Now, you get another-you get data-different data today. So we'll have to see where the data light the way. You know, we're-we're at-the economy has, you know, been a little bit more volatile than it was in the early 2000s, and today was certainly a better inflation report than almost anybody expected. And we'll just have to see what the incoming data flow brings and how that affects the outlook and the balance of risks. 
+
+GINA SMILEY. 
+Gina Smiley with the New York Times. Thanks for taking our questions. In the summary of economic projections, the Committee's policy setting has moved up a bit. I wonder if we should read that as a sign that you think that policy is not, sort of, as restrictive as we previously expected. You know, how should we interpret what that means about how the Committee views its current policy setting? 
+
+CHAIRMAN POWELL. 
+So, two things about that. One-one is this. You're right, it did move up. But I want to remember to point out that long-run neutral rate of interest is a long-run concept. It can't be directly observed. And what it is is the interest rate that would hold the economy at equilibrium-maximum employment and price stability-potentially years in the future where there are no shocks. So it's-it's a little bit-it's not something we observed today. 
+
+Today we've got a very specific economy with all kinds of shocks. We're still getting over from the pandemic. So it's-I don't think that the concept of RSTAR-it's a very important concept in economics and in what we do, but, honestly, it doesn't-it doesn't really get you where you need to be to think about what appropriate policy is in the near term. 
+
+But I-back to your original question, people have been gradually writing it up because I just think people are coming to the view that rates aren't going to-are less likely to go down to their pre-pandemic levels, which were, you know, very low by recent history measures. Now, we can't really know that. That's an interesting dispute and discussion to have now, but, ultimately, we think that things like the neutral rate are driven by longer-run, slow-moving forces. And, you know, there's a really good question about whether-whether those really have changed or whether, instead, rates and the economy are experiencing a series of persistent but ultimately temporary shocks. That's been the debate, and we can't know. 
+
+But in the meantime, we're making policy with the economy that we have, with the distortions that we have, and I also-to your other point, I think it is-it is the case that, as time has gone by, the question of how restrictive is policy has become one that everyone's asking, and we're asking it, too. 
+
+And, you know, my answer has been that policy is restrictive. The question of whether it's sufficiently restrictive is going to be one we know over time. But I think, for the reasons I talked about at the last press conference and other places, I think the evidence is pretty clear that policy is restrictive and is having a-is having a-is having a long-term impact and is having, you know, the effects that we would hope for. 
+
+Howard Stein
+Howard Stein with Reuters. Just to carry that a little further, should we read this as a conclusion, the combination of tipping to one cut this year and acknowledging further progress on inflation as kind of a mark to market on the level of restrictiveness that you need, that you, in fact, have concluded that you weren't quite there yet? 
+
+CHAIRMAN POWELL. 
+I'd be reluctant to try to draw that conclusion. I think this is about, you know, looking at the incoming data and asking, how much progress are we making on inflation, and how is the rest of the economy doing? Is the labor market still strong? That's what we're thinking about. You know, you can-you can translate it into the-into the language you're talking about, but I-to me, the focus is more on, we have a goal, which is price stability, and another goal, which is maximum employment. How are we doing there? We think we've got a good, strong labor market still. We think we've been making progress toward the price stability goal, and then, for a while, there was a pause, and we look at today's thing, and we think, well, that's-that's a good reading, and we hope we get more like that. And, you know, in the meantime, we're asking, is our policy stance about right? And I think-we think, yes, it's about right. We're prepared to adjust it as appropriate, but we're-we're getting the things that we would want to get, broadly speaking, and that's why we've been at this policy right now for almost a year. 
+
+Howard Stein
+So-so just to follow up on that, I think what's-what's curious in here is, you've got now this restrictive policy in place and virtually no change in any of the major things for all of this year. You've got growth that stays above long-run potential throughout the forecast period, unemployment that never goes above the long-run potential, and, you know, inflation that never goes above the long-run estimate, right, of 4.2. So this isn't a story of slack improving inflation. So where's the improvement in inflation coming from that it's going to pick up pace so much in 2025? 
+
+CHAIRMAN POWELL. 
+Well, you know, it's been coming-where's it been coming from? We'll start with that. You know, clearly, a lot of what-some of what we've been getting is just the reversal of the-the unwinding of the pandemic-related distortions to both supply and demand. And, you know, that is-you know, that is complemented by and amplified-supported by restrictive monetary policy. So those two things have been working together. We've also had a very positive supply shock on the labor side, and also you get a-you get a positive supply shock when the-when the supply conditions unwind and return to normal. So you've had, you know, above-trend potential growth and-and high growth, and yet you've had the benefit of inflation coming down, you know, really fast, actually, and we'll see what the rest of this year brings. So these dynamics can continue as long as they continue. I mean, ultimately, the question is, ultimately, are you down to demand? And we don't know that, though. I mean, we're-look at today's report. You know, if we see more like that, you know, we don't-we can't know what the future holds. But, in the meantime, we've made pretty good progress on inflation with our current stance. 
+
+MICHAEL MCKEE. 
+Michael McKee from Bloomberg Radio and Television. The base case of the Committee seems to be that there is going to be at least one rate cut this year, but your growth forecast doesn't see any slowdown in the rest of the year, nor does the unemployment forecast see any significant weakening of the labor market, and your inflation forecast basically averaged out to no change. So if, at the end of the year, there is no change from conditions now, why would you anticipate cutting rates? What would be the point for a rate cut? 
+
+CHAIRMAN POWELL. 
+Well, we think policy is restrictive, and we think, ultimately, that if you just set policy at a restrictive level, eventually you will see real weakening in the economy. So that's always been the thought, is that, you know, since we've raised rates this far, we've always been pointing to cuts at a certain point, not to eliminate the possibility of hikes, but, you know, no one has that as their base case. So no one on the Committee does. But-so that's, you know, that's how we think about it, and that's what we've been getting. That's what we've been getting, is good progress on inflation with growth at a good level and with a strong labor market. Now, ultimately, we think rates will have to come down to continue to support that. But, so far, they haven't had to. And, you know, that's why we were watching so carefully for signs of weakness. We don't really see that. We don't really see that. We kind of see what we wanted to see, which was gradual cooling in demand, gradual rebalancing in the labor market, while we're continuing to make progress on inflation. So, I mean, we're getting-we're getting good results here. 
+
+MICHAEL MCKEE. 
+Well, to follow up, is there any kind of concern for the housing industry or financial stability banks in leaving rates where they are for too long at this point? 
+
+CHAIRMAN POWELL. 
+On housing, you know, the housing situation is a complicated one. And you can see that's a place where rates are really having a significant effect. I mean, ultimately, the best thing we can do for the housing market is to bring inflation down so that we can bring rates down so that the housing market can continue to normalize. There will still be a national housing shortage, as there was before the pandemic. There will still be one. But the distortions that we see now with lock-ins and things like that, you know, low mortgages. In terms of banks, the banking system has been, you know, solid, strong, well-capitalized, lending. You know, we've seen good performance by the banks. We had the turmoil early out last year, but, you know, banks have been focusing on bringing up their liquidity, bringing up their capital, and having risk-management plans in place. So the banking system, you know, seems to be-seems to be in good shape. 
+
+CHRIS RUGABER. 
+Thanks. Chris Rugaber at Associated Press. I was wondering if we can-on inflation, if you can tell us a little more about where you see inflationary pressure in the economy. You mentioned labor markets coming into better balance, and inflation expectations appear to be well-anchored. You're seeing, you know, anecdotal stories of the large chains, like Walmart and Target, are announcing price cuts. McDonald's announcing a $5 meal deal. So, you know, people may still be unhappy about prices at the grocery store, but it doesn't seem like there's a lot of inflationary pressure left in this economy. I wonder if you could tell us more about that. 
+
+CHAIRMAN POWELL. 
+It's true that inflationary pressures have come down, but we still have-we're still getting high inflation readings. So, you know, and I think you can see it in various places. In, you know, in some parts of non-housing services, you see elevated inflation still, and that's probably to do with-it could be to do with wages. Goods prices have kind of fluctuated. There's been a surprising increase in import prices on goods, which is kind of hard to understand, and, you know, may-we've taken some signal from that. But, you know-and, of course, housing services, you're seeing-you're continuing to see high readings there. To some extent, that's-that's, you know, catch-up inflation from earlier pressures. But, I mean, overall, you're right. Inflationary pressures have come down. As I mentioned, the labor market has come into better balance. Wages are still running, you know, I would say, above a sustainable path, which would be that of trend inflation and trend productivity. You're still seeing wage increases moving above that. We haven't thought of wages as being the principal, you know, cause of inflation, but at the same time, getting back to 2 percent inflation is likely to require a return to a more sustainable level, which is somewhat below the current level of increases in the aggregate. 
+
+RACHEL SEAGAL. 
+Hi, Chair Powell. Rachel Seagal from The Washington Post. Thanks for taking our questions. There's obviously a lot of focus on how many cuts could be expected this year, but can you give us a sense of what one cut by the end of the year would actually do to the economy, what you think would be a meaningful difference if there was a cut by the end of the year, or even two? 
+
+CHAIRMAN POWELL. 
+I think if, you know, if you look back in 5 or 10 years and try to pull out the significance to the U.S. economy of one 25-basis point rate cut, you'd have quite a job on your hands. So that's not how we look at it, you know. Really, the whole rate path matters. And I do continue to think that when, you know, when we do start to loosen policy, that will show up in a significant loosening in financial market conditions, and the market will price in what it prices in. I don't-I have no way of saying-we're not at that stage, so I don't know what we'll be thinking about at that time. 
+
+But it's a consequential decision for the economy, and, you know, you want to-you want to get it right. And, fortunately, we have a strong economy, and we have the ability to, you know, approach this question carefully. And we will approach it carefully while we're very much keeping an eye on, you know, downside economic risks, should they-should they emerge. 
+
+RACHEL SEAGAL. 
+And you've been talking about this clear sense that it's just going to take longer to have the confidence that's needed for rate cuts. Is there something about what happened in the first couple of months of the year that you're seeing differently now, with more time or hindsight? Do you still characterize it as expected bumpiness or something more lasting that is affecting your policy for the rest of the year? 
+
+CHAIRMAN POWELL. 
+You know, we always want to avoid the tendency to dismiss the parts of inflation that we-that we don't like and just make it go away. So-but we had a quarter where inflation was running higher, and, yes, I could stand here and say it's stuff we shouldn't have taken signal from. But it is what it is. You know, you have to-you know, low inflation is low inflation, high inflation-so if you have a quarter where it's higher-we did-we tried not to take signal from the first couple of months, but we got a third month, and we said, okay, the signal we're taking is that, you know, we think it's going to take longer to get confidence that inflation is moving sustainably down 2 percent. That's-that's what we said. I think that was the right thing to do. I still think that's the right thing to do. 
+
+Now we have today's inflation reading, which is very different, very much more positive. We're going to have to see what the trend is, what's going to be the data going forward. We're looking for something that gives us confidence that inflation is moving sustainably down to 2 percent. And readings like today's, you know, that's a step in the right direction, but, you know, one reading isn't-it's just-it's only one reading. You don't want to-you don't want to be too motivated by any single data point. 
+
+JOLENE KEN.
+ Hi, Chair Powell. Thank you for taking our questions. I'm Jolene Ken with CBS News. What's your message to Americans who are seeing encouraging economic data but don't feel good about this economy? 
+
+CHAIRMAN POWELL. 
+I-you know, I don't think anyone knows, as a definitive answer, why people are not as happy about the economy as they might be. And we don't tell people how they should think or feel about the economy. That's not our job. We-you know, people experience what they experience. All I can tell you is what the data show, which is we've got an economy that's growing at a solid pace. We've got a very strong labor market, with unemployment at 4 percent. It's been a long time since we've seen that. It's been a long time since we've had, you know, a long stretch of time with unemployment at or below 4 percent-a very long time. We had a period of high inflation. We now-inflation has come down really significantly, and we're doing everything we can to, you know, to bring that inflationary episode fully to a halt and fully restore price stability. We're confident that we'll get there. And, in the meantime, you know, it's going to be painful for people. But the ultimate pain would be a period of long-a long period of high inflation. It is people who-lower-income people, people who are at the margins of the economy who have the worst experience, who experience the most pain from inflation. So, you know, it's for those people-for all Americans, but particularly for those people that we're doing everything we can to bring inflation back down under control. 
+
+JOLENE KEN.
+ As just a quick follow-up here, you've indicated one interest rate cut sometime this year. And I know you don't have a crystal ball up there, but a lot of people are watching and see-you know, borrowing money remains very expensive. For everybody who's out there waiting on a rate cut, about when can consumers expect some relief? 
+
+CHAIRMAN POWELL. 
+Well, you know, I don't have a precise date for you, but what we've said is that we want to make sure that we're confident that inflation is actually moving back down to 2 percent. And when we are, then we can look at loosening policy. So having that kind of confidence that inflation will be at 2 percent just-it just pays benefits to the whole economy, to all Americans for a long period of time. We had that period for a very long time. We very much want to get back to a place where people can not think about inflation. It's just not a concern in the everyday economic decisions that they make. We were there for a long time, and our goal is to get back to that place. And we've made good progress, and we're just-we're in the phase now of just, you know, sticking with it until we get it done.
+
+ニール・アーウィン
+ありがとう、パウエル議長 アクシオスのニール・アーウィンです。金利の動きに戻りますが、SEPでは3月に比べて利下げ観測がかなり大きく変化しています。経済データの流れがそれほど劇的な変化を示していない時期です。この3ヵ月間で委員会の態度がどのように変化し、今年の利下げ路線がかなり浅くなったと見ているのか、お聞かせください。
+
+パウエル議長。
+大きく変わったのはインフレ見通しです。インフレ見通しが年末にかけてコンマ幾つか上昇したのです。そして、先ほども申し上げましたが、私たちはこのことから何を得たのでしょうか？昨年後半は本当に良いインフレデータが出たのですが、その後、第1四半期はインフレの進行が一時停止しました。そこから読み取れるのは、政策を緩和し始めるのに必要な確信を得るには、おそらくまだ時間がかかりそうだということです。つまり、利下げは今年行われるかもしれないし、来年行われるかもしれないということです。今年の利下げは中央値では少ないですが、来年はもう1回あります。つまり、2025年末と26年末を比較すると、ほとんど同じ位置にいる。ただ、その進歩のために時期が遅くなっただけなのだ。だから、データがどこを照らしてくれるかを見なければならない。経済は2000年代前半に比べれば少し不安定になったが、今日のインフレ率は誰もが予想していたよりも良いものだった。今後のデータフローがどうなるか、そしてそれが見通しやリスクバランスにどう影響するかを見守る必要がある。
+
+ジーナ・スマイリー 
+ニューヨーク・タイムズのジーナ・スマイリーです。質問にお答えいただきありがとうございます。経済予測のサマリーで、委員会の政策設定が少し上がっています。これは、政策が以前予想されたほど引き締め効果的でないと考えていることの表れと読むべきでしょうか。委員会が現在の政策設定をどのように見解しているのか、その意味をどのように解釈すべきでしょうか？
+
+パウエル議長。
+それについては2つあります。ひとつはこれです。あなたの言う通り、上昇しました。しかし、長期中立金利は長期的な概念であることを指摘しておきたい。直接観測することはできない。中立金利とは、経済が均衡（最大限の雇用と物価の安定）に保たれる金利のことで、ショックがない可能性のある数年先の金利のことです。つまり、今日観測されたものではないのです。
+
+今日、私たちはあらゆる種類のショックを伴う非常に特殊な経済状況に置かれています。私たちはまだパンデミックから立ち直っていません。ですから、RSTARという概念は、経済学や私たちの活動において非常に重要な概念ですが、正直なところ、短期的に適切な政策を考えるために必要なものではありません。
+
+しかし、あなたの最初の質問に戻ると、私の見解では、人々は金利がパンデミック前の水準まで下がる可能性は低い、つまり、最近の歴史的な指標からすると非常に低い水準まで下がる可能性は低いと考えている。しかし、実際のところはわからない。しかし最終的には、中立金利のようなものは、より長期的でゆっくりとした動きをしている力によって左右されると考えている。それが本当に変化しているのか、それとも金利や経済が持続的だが最終的には一時的なショックに見舞われているのか。それが議論の焦点であり、私たちにはわからない。
+
+しかしその一方で、私たちは今ある経済、今ある歪みの中で政策を決定しています。また、もうひとつのご指摘ですが、時間が経つにつれて、引き締め効果はどの程度なのかという疑問が誰もが抱くようになり、私たちもそれを問うています。
+
+そして、私の答えは「政策は 引き締め的である」というものでした。十分に引き締め効果があるかどうかは、時間が経てばわかることです。しかし、前回の記者会見や他の場所でもお話ししたように、政策が引き締め効果を発揮し、長期的な影響を及ぼし、私たちが望むような効果をもたらしているという証拠はかなり明確だと思います。
+
+ハワード・スタイン
+ロイターのハワード・スタインです。今年1回の利下げに転じ、インフレ率のさらなる進展を認めたということは、必要な引き締め効果のレベルについて、市場原理を働かせたと見るべきでしょうか。
+
+パウエル議長。
+そのような結論を導き出そうとは思いません。これは、入ってくるデータを見て、インフレはどの程度進展しているのか、他の経済はどうなのか、と問うことだと思います。労働市場はまだ強いのか？労働市場は依然として堅調なのか？しかし、私としては、物価の安定という目標と、最大限の雇用というもう一つの目標があります。その点ではどうなのか？私たちは、労働市場は依然として良好で力強いものだと考えています。物価安定の目標に向けて前進してきたと思いますが、しばらくの間、小休止がありました。そして、その一方で、我々の政策スタンスは正しいのか？私たちは、そう考えている。適切な調整ができるよう準備はしているが、大まかに言えば、私たちは得たいものを得ている。
+
+ハワード・スタイン
+つまり、この話の続きになるのですが、ここで不思議なのは、この引き締め効果のある政策が実施されているにもかかわらず、今年1年間、主要なものにはほとんど変化がなかったということです。成長率は予測期間を通じて長期潜在成長率を上回り、失業率は長期潜在成長率を上回らず、インフレ率は長期予測値である4.2を上回らない。つまり、スラックがインフレを改善するという話ではないのだ。では、2025年にペースがこれほど上昇するというインフレ率の改善はどこから来るのでしょうか？
+
+パウエル議長。
+さて、それはどこから来るのでしょうか？まずはそこから始めよう。パンデミックに関連した需給のゆがみが解消され、その反動が出ていることは明らかです。そしてそれは、引き締め効果のある金融政策によって補完され、増幅されている。つまり、この2つがうまく機能しているのです。また、労働側にも非常にポジティブな供給ショックがあり、供給条件が緩和されて正常に戻ると、ポジティブな供給ショックが起こります。つまり、トレンドを上回る潜在成長率と高成長、そしてインフレ率の低下という恩恵を受けているわけです。ですから、こうした力学が続く限り、この傾向は続くでしょう。つまり、結局のところ、問題は需要まで落ち込んでいるかどうかということです。それはわからない。つまり、今日の報道を見ればわかる。もし、このような状況が続くのであれば、将来どうなるかはわからない。しかし、その一方で、私たちは現在のスタンスでインフレに関してかなり良い進歩を遂げています。
+
+マイケル・マッキー 
+ブルームバーグ・ラジオ＆テレビのマイケル・マッキーです。委員会のベースケースは、今年少なくとも1回の利下げがあるというものですが、あなたの成長率予測では、年内の減速は見られず、失業率予測でも労働市場の大幅な弱体化は見られず、インフレ予測も基本的に平均して変化なしとなっています。では、年末に現在の状況から変化がないのであれば、なぜ利下げを予想するのでしょうか？利下げのポイントは何でしょうか？
+
+パウエル議長。
+私たちは政策が引き締め効果に満ちていると考えています。そして結局のところ、引き締め効果のある水準に政策を設定すれば、最終的には経済が本当に弱くなると考えています。ですから、これまで利上げを続けてきて、利上げの可能性を排除するわけではありませんが、私たちは常にある時点で利下げすることを想定してきました。委員会の誰もそう思っていない。しかし、それが私たちの考え方であり、私たちが得てきたものなのです。インフレは順調に進展し、成長率は良好な水準にあり、労働市場も力強い。最終的には、インフレを下支えし続けるためには金利を引き下げる必要があると我々は考えている。しかし、これまでその必要はなかった。だからこそ、私たちは弱さの兆候を注意深く見守っていたのです。しかし、そのような兆候は見られない。本当に見えていない。私たちが見たかったのは、需要の緩やかな冷え込み、労働市場の緩やかなリバランス、そしてインフレの進展です。つまり、私たちは良い結果を得ているのです。
+
+マイケル・マッキー 
+続けて、住宅業界や金融安定化銀行にとって、金利を今のまま長く放置することに何か懸念はありますか？
+
+パウエル議長。
+住宅に関しては、住宅事情は複雑です。金利が大きな影響を及ぼしているのはおわかりでしょう。つまり、最終的に住宅市場にとって最善なのは、インフレ率を下げて金利を下げ、住宅市場が正常化し続けるようにすることです。パンデミック以前と同様、全国的な住宅不足は続くでしょう。それでもまだある。しかし、ロックインや低金利住宅ローンなど、現在のような歪みが生じています。銀行に関しては、銀行システムは堅実で、強固で、資本も十分で、融資も行っている。銀行の業績は良好です。昨年初めの混乱はありましたが、銀行は流動性を高め、資本を増強し、リスク管理計画を策定することに注力してきました。ですから、銀行システムは良好な状態にあるようです。
+
+クリス・ルガーバー 
+ありがとう。AP通信のクリス・ルガーバーです。インフレについてお伺いしたいのですが、経済のどこにインフレ圧力があるとお考えですか？労働市場のバランスが良くなり、インフレ期待が定着してきたとおっしゃいました。ウォルマートやターゲットのような大手チェーンが利下げを発表したという逸話もあります。マクドナルドは5ドル値下げを発表した。つまり、人々は食料品店の価格にまだ不満を抱いているのかもしれませんが、この経済にはインフレ圧力があまり残っていないようです。その点について、もう少し詳しくお聞かせいただけますか？
+
+パウエル議長 
+インフレ圧力が低下しているのは事実ですが、依然として高いインフレ観測が続いています。ですから、いろいろな場所でそれを見ることができると思います。非住宅サービス業の一部では、依然として高いインフレが見られますが、これはおそらく賃金に関係しているのでしょう。物価は変動しています。輸入物価が驚くほど上昇していますが、これはちょっと理解しがたいことで、そこから何らかのシグナルを受け取っているのかもしれません。しかし、もちろん、住宅サービスも高水準の観測が続いている。これはある程度、以前の圧力からのキャッチアップインフレです。しかし、全体的にはその通りです。インフレ圧力は低下しています。申し上げたように、労働市場はより良いバランスを保っています。賃金は依然として、トレンド・インフレとトレンド生産性という持続可能な経路を上回っています。賃金上昇率はまだそれを上回っています。しかし同時に、インフレ率を2％に戻すには、より持続可能な水準に戻す必要がありそうです。
+
+レイチェル・シーガル 
+こんにちは、パウエル議長。ワシントン・ポスト紙のレイチェル・シーガルです。質問にお答えいただきありがとうございます。今年、どれだけの利下げが予想されるかに注目が集まっていますが、年内に1回、あるいは2回の利下げが行われた場合、実際に経済にどのような影響があるのか、意味のある違いになるとお考えでしょうか。
+
+パウエル議長。
+もし5年後、10年後を振り返って、25ベーシスポイントの利下げを1回実施した場合の米国経済への影響を試算してみると、かなり大変なことになると思います。ですから、私たちはそういう見方をしているわけではありません。本当に重要なのは、金利パス全体です。政策を緩和し始めたら、それは金融環境の大幅な緩和という形で現れ、市場はそれを織り込みます。私たちはまだその段階にいないので、現時点で私たちが何を考えているかはわかりません。
+
+しかし、これは経済にとって重大な決断であり、正しい決断を下したいものだ。そして幸いなことに、私たちには強い経済力があり、この問題に慎重に取り組む能力があります。そして、経済的な下振れリスクが顕在化した場合には、それを注視しながら慎重に対処していくつもりです。
+
+RACHEL SEAGAL. 
+利下げに必要な信任を得るにはまだ時間がかかりそうだと、あなたは明確に感じているようですね。今年の最初の2、3ヶ月に起こったことについて、時間や後知恵を得た今、何か違う見方があるのでしょうか？予想されたでこぼこなのか、それとももっと永続的なものなのか。
+
+パウエル議長。
+私たちは常に、インフレの中で私たちが好まないものを排除し、それをただ消し去ろうとする傾向を避けたいと考えています。しかし、インフレ率が上昇した四半期がありました。しかし、それが現実なのです。低インフレは低インフレ、高インフレは高インフレですから、高インフレになった四半期があれば、私たちは最初の2、3ヶ月はシグナルを受け取らないようにしていました。それが私たちが言ったことです。それは正しいことだったと思います。今でもそれが正しいと思います。
+
+しかし、今日のインフレ観測は大きく異なっており、非常にポジティブなものだ。今後、どのような傾向になるのか、どのようなデータになるのかを見極める必要がある。私たちは、インフレ率が持続的に2%まで低下していくという確信を与えてくれるものを探している。今日のような観測は正しい方向への一歩ですが、1回の観測ではありません。一つのデータでモチベーションを上げすぎないでほしい。
+
+ジョリーン・ケン
+ こんにちは、パウエル議長。質問にお答えいただきありがとうございます。CBSニュースのジョリーン・ケンです。勇気づけられるような経済データを目にしながらも、この経済について良い印象を持っていないアメリカ人にメッセージをお願いします。
+
+パウエル議長。
+なぜ人々が経済に対してそれほど満足していないのか、明確な答えは誰にもわからないと思います。私たちは、人々が経済についてどう考えるべきか、どう感じるべきかを指示するつもりはありません。それは私たちの仕事ではない。私たちは......人々が経験することを経験する。私がお伝えできるのは、データが示す通り、経済が堅調なペースで成長しているということだけです。失業率は4％で、労働市場は非常に堅調です。失業率が4％というのは久しぶりのことです。失業率が4％以下の状態が長く続いたのは、実に久しぶりのことだ。高インフレの時期もあった。現在、インフレ率は大幅に低下しており、インフレを完全に停止させ、物価の安定を完全に回復させるために、私たちはできる限りのことをしています。私たちはそこに到達できると確信しています。その間、人々には痛みを伴うだろう。しかし、究極の痛みは、長期にわたる高インフレの期間だろう。低所得者層や経済の片隅にいる人々が最悪の経験をし、インフレによる痛みを最も経験するのです。ですから、私たちはインフレを抑制するために全力を尽くしているのです。
+
+ジョリーン・ケン
+ 簡単な補足ですが、今年中に利下げを行うとのことですね。あなたが水晶玉を持っているわけではないことは承知していますが、多くの人々が注目し、お金を借りるのは非常に高いままだと見ています。利下げを待ち望んでいる皆さん、消費者はいつ利下げを期待できますか？
+
+パウエル議長。
+正確な時期はわかりませんが、インフレ率が実際に2％台に戻りつつあると確信できるようにしたい、と私たちは申し上げています。そうなれば、政策の緩和を検討することができます。インフレ率が2％になるという確信があれば、経済全体、そしてすべてのアメリカ国民に長期にわたって利益をもたらすことになります。私たちは長い間、そのような状況にありました。私たちは、人々がインフレのことを考えずにすむような状況に戻したいのです。日常の経済的な意思決定において、インフレを気にすることはないのです。私たちは長い間そのような状態にありましたが、私たちの目標はそのような状態に戻ることです。私たちは順調に前進しており、今はただ、やり遂げるまで頑張るという段階にいる。
