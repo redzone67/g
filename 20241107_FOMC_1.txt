@@ -1,0 +1,307 @@
+POWELL
+Good afternoon. My colleagues and I remain squarely focused on achieving our dual mandate goals of maximum employment and stable prices for the benefit of the American people. The economy is strong overall and has made significant progress toward our goals over the past two years. The labor market has cooled from its formerly overheated state and remains solid. Inflation has eased substantially from a peak of 7% to 2.1% as of September. 
+We are committed to maintaining our economy's strength by supporting maximum employment and returning inflation to our 2% goal. Today, the FOMC decided to take another step in reducing the degree of policy restraint by lowering our policy interest rate by a quarter percentage point. We continue to be confident that with an appropriate recalibration of our policy stance, strength in the economy and the labor market can be maintained, with inflation moving sustainably down to 2%. 
+We also decided to continue to reduce our securities holdings. I'll have more to say about monetary policy after briefly reviewing economic developments. Recent indicators suggest that economic activity has continued to expand at a solid pace. GDP rose at an annual rate of 2.8% in the third quarter, about the same pace as in the second quarter. Growth of consumer spending has remained resilient and investment in equipment and intangibles has strengthened.
+ In contrast, activity in the housing sector has been weak. Overall, improving supply conditions have supported the strong performance of the U.S. economy over the past year. In the labor market, conditions remain solid. Payroll job gains have slowed from earlier in the year, averaging $104,000 per month over the past three months. This figure would have been somewhat higher were it not for the effects of labor strikes and hurricanes on employment in October. 
+Regarding the hurricanes, let me extend our sympathies to all the families, businesses, and communities who have been harmed by these devastating storms. The unemployment rate is notably higher than it was a year ago, but it has edged down over the past three months and remains low at 4.1% in October. Nominal wage growth has eased over the past year, and the jobs-to-workers cap has narrowed. 
+Overall, a broad set of indicators suggest that conditions in the labor market are now less tight than just before the pandemic in 2019. The labor market is not a source of significant inflationary pressures. 
+Inflation has eased significantly over the past two years. Total PCE prices rose 2.1% over the 12 months ending in September, excluding the volatile food and energy categories. Before, PCE prices rose 2.7%. Overall, inflation has moved much closer to our 2% longer-run goal, but core inflation remains somewhat elevated. Longer-term inflation expectations appear to remain well-anchored, as reflected in a broad range of surveys of households, businesses, and forecasters, as well as measures from financial markets. 
+Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. We see the risks to achieving our employment and inflation goals as being roughly in balance, and we're attentive to the risks to both sides of our mandate. At today's meeting, the committee decided to lower the target range for the federal funds rate by a quarter-percentage point to 4.5% to 4.75%. 
+This further recalibration of our policy stance will help maintain the strength of the economy and the labor market, and will continue to enable further progress on inflation as we move toward a more neutral stance over time. We know that reducing policy restraint too quickly could hinder progress on inflation. At the same time, reducing policy restraint too slowly could unduly weaken economic activity and employment. 
+In considering additional adjustments to the target range for the federal funds rate, the committee will carefully assess incoming data, the evolving outlook, and the balance of risks. We are not on any preset course. We will continue to make our decisions meeting by meeting. As the economy evolves, monetary policy will adjust in order to best promote our maximum employment and price stability goals. 
+If the economy remains strong and inflation is not sustainably moving toward 2%, we can dial back policy restraint more slowly. If the labor market were to weaken unexpectedly, or inflation were to fall more quickly than anticipated, we can move more quickly. 
+Policy is well-positioned to deal with the risks and uncertainties that we face in pursuing both sides of our dual mandate. At the Fed has been assigned two goals for monetary policy, maximum employment and stable prices. We remain committed to supporting maximum employment, bringing inflation sustainably to our 2% goal, and keeping longer term inflation expectations well anchored. 
+Our success in delivering on these goals matters to all Americans. We understand that our actions affect communities, families, and businesses across the country. Everything we do is in service to our public mission. We at the Fed will do everything we can to achieve our maximum employment and price stability goals. Thank you. I look forward to our discussion. Thank you. 
+QUESTIONS
+Given the expectation that the election outcome will produce policies that would meaningfully impact the U.S. economy next year, how is the committee taking these proposals into account for upcoming decisions, including potentially the next one in December? And can you give us any more sense of how proactive or reactive the Fed is prepared to be to changes in economic policies with the next administration? 
+POWELL
+Sure. So let me say that in the near term, the election will have no effects on our policy decisions. As you know, many, many things affect the economy, and anyone who writes down forecasts in their job will tell you that the economy is quite difficult to forecast looking out past the very near term. However, we don't know what the timing and substance of any policy changes will be. We therefore don't know what the effects on the economy would be, specifically whether and to what extent those policies would matter for the achievement of our goal variables, maximum employment, and price stability. We don't guess, we don't speculate, and we don't assume. Now, just in principle, it's possible that any administration's policies or policies put in place by Congress could have economic effects over time that would matter for our pursuit of our dual mandate goals. So we, along with countless other factors, forecasts of those economic effects would be included in our models of the economy and would be taken into account through that channel.
+
+Nick. Nick. Chair Powell, Nick Timmeros from the Wall Street Journal. 
+Roughly one year ago, when the 10-year Treasury was flirting with 5% and 30-year mortgage rates were near 8%, you noted how higher borrowing costs, if they were sustained, could weigh on economic activity. Given that you've said you believe policy is restrictive and the Fed is now dialing back that restriction, are the growth risks presented by higher U.S. Treasury yields today any different from those you identified one year ago when inflation was still meaningfully above your target? 
+
+POWELL
+So I would just say this. We've watched the run-up in bond rates, and it's nowhere near where it was, of course, a year ago. I guess the long-run rates are well below that level. So we're watching that. Things have been moving around, and we'll see where they settle. I think it's too early to really say where they settle. Ultimately, I'm sure we've all read these decompositions of what, and I certainly have, but it's not really our job to provide our specific decomposition. 
+I will say, though, that it appears that the moves are not principally about higher inflation expectations. They're really about a sense of more likelihood of stronger growth and perhaps less in the way of downside risks. That's what they're about. We do take financial conditions into account. If they're persistent and if they're material, then we'll certainly take them into account in our policy. But I would say we're not at that stage right now. 
+It's just something that we're watching. Again, these things don't really have mainly to do with Fed policy, but to do with other factors in the economy. If I could follow up, is the September SEP, are those rate projections still valid? Do they still seem relevant, given where we are now? You know, you get halfway through the cycle between the last set and the next set. I wouldn't want to comment one way or the other. 
+
+Let's talk about the data we've gotten since the last meeting. In the main, the economic activity data have been stronger than expected. The NIPA revision was stronger. Certainly the September employment report was stronger. The October report, not stronger. So overall, though, I think you take away a sense of some of the downside risks to economic activity having been diminished with the NIPA revisions in particular. And so overall, feeling good about economic activity. So I think we would factor that in. At the same time, we got one inflation report, which was, it wasn't terrible, but it was a little higher than expected. So I think really the question is December, and by December, we'll have more data. I guess one more employment report, two more inflation reports, and lots of other data. And we'll make a decision as we get to December. 
+
+Gina Smilick from the New York Times. 
+Thanks for taking our questions, Chair Powell. When it comes to December, what will you be looking at specifically as you try to make that decision? And then as of the Fed's economic projections in September, you had written down four quarter point interest rate cuts in 2025. Do you still think that those are likely? Is that sort of the baseline outlook at this point, or has that shifted? And if it shifted at all, can you give a little bit of detail as to why? 
+POWELL
+We don't fill out an SEP, and I can't characterize one that wasn't filled out today. So I can't really speak for kind of exactly where the committee is. I would just say for December, we're going to be, again, at every meeting, we're going to be looking at the incoming data and how that affects the outlook. 
+As you know, we're in the process of recalibrating from a fairly restrictive level at 5.33%. After today's move, we're down 75 basis points, and we're asking ourselves, is that where we need to be? You know that we're trying to steer between the risk of moving too quickly and perhaps undermining our progress on inflation, or moving too slowly and allowing the labor market to weaken too much. 
+We're trying to be on a middle path where we can maintain the strength in the labor market while also enabling further progress on inflation. We think that's where we are, but that's the question we're going to be asking in September and in other meetings. And again, I can't really update you on the committee's thinking because we don't fill out an SEP at this meeting. 
+QUESTIONS
+Yeah. Totally appreciate that. When it comes to your own thinking, do you think that a full percentage point of rate cuts in 2025 is a reasonable outlook? 
+POWELL
+Again, we're going to wait and see how things come in in December. It's just, I would put it this way. We're on a path to a more neutral stance, and that's very much what we're on. That has not changed at all since September. We're just going to have to see where the data lead is. We have a whole six weeks of data to look at to make that decision in December. Obviously, I'm not ruling it out or in, but I would say that, again, we didn't update the SEP, so I'm not going to characterize where the committee would be.
+
+Howard. Thanks. Howard Schneider with Reuters. 
+I wondered if you could please elaborate and explain a little bit the two changes in the language of the statement here. In the first paragraph, when you say inflation has made progress, dropping the word further progress, and in the second paragraph, dropping the sentence that the committee had gained greater confidence that inflation was progressing towards its 2% goal. Is there any policy substance behind either of those changes in language? Is it meant to open the door to a December pause? Is it meant to communicate anything about the stickiness of core inflation in the last three months? 
+POWELL
+Not really, no. Let me tell you what we were thinking. The test of gaining further confidence was our test for the first rate cut. We net that test in September, and therefore, we take that test out. If you leave it in, then it's new forward guidance. It's brand new forward guidance. What do you mean by it? Are you requiring yet further guidance? We have to say yes or no at every meeting whether we've made further progress. 
+The point is we have gained confidence that we're on a sustainable path down to 2%. That I would tell you is what that's really all about. It's not meant to send a signal. Neither of those is meant to send a further signal. Saying further progress, it becomes a test. We don't think it's a good time to be doing a lot of forward guidance where there's a fair amount of uncertainty in what I've said. 
+The path that we're on, we do know where the destination is, but we don't know the right pace, and we don't know exactly where the destination is. The point is to find that, to find the right pace and the right destination as we go. I think there's a fair amount of uncertainty about that. You don't want to tie yourself up with guidance. You want to be able to make sensible decisions as you go. 
+
+Steve? Steve Leesman, CNBC. 
+Mr. Chairman, you talked about higher rates, perhaps from an expectation of higher growth. You didn't talk about it in terms of expectations of higher deficits. Is that something you think might be behind the recent rise in interest rates, and are rising deficits a concern to you? 
+POWELL
+We know common in fiscal policy. Again, I don't have a lot more to say on what's driving bond yields. In terms of policy changes, though, let me give you a sense of how this works in the ordinary case. Let's say Congress is considering a rewrite of the tax laws. It doesn't matter what's in the content. We would follow that. 
+At a certain point, we'd think we see the outline, so we'd start to model it, and then we'd wait and we'd wait. At a certain point, the staff would brief the FOMC and say, these are the likely effects. There's lots and lots of literature on the effects of tax policy changes on various parts of the economy. We'd try to get smart on that, and then the law actually passes. You'd start to put it ... You'd probably run an alternative simulation before that happens, just to keep people trying to understand it. Then when it actually passes, it goes into the model, along with a million other things. We have a very large economy. Many things are affecting it at any given time. A law change of some kind would go in there, but it would go in. It's a process that takes some time. Clearly, the legislative process takes a lot of time. 
+Of course, the real question is not the effect of that law. It's all of the policy changes that are happening. What's the net effect, and the overall effect on the economy at any given time? I think that's a process that takes a lot of time, and that we go through all the time with every administration, constantly. 
+This will be no different. Right now, there's nothing to model right now. It's such an early stage. We don't know what the policies are. Once we know what they are, we won't have a sense of when they'll be implemented, or all those sorts of things. I think I would just say, we're not doing that now. 
+All that will take time, and it will be very much regular order when we do do that. If I could just follow up on Nick's question. Are the current rates something you feel like you need to lean against, in that they go against the direction of policy by adding restrictions to the economy, or do you just take them as a given, and perhaps a signal that you should do less? Look, I just think the first question is, how long will they be sustained? 
+If you remember, the 5% tenure people were drawing were massively important conclusions, only to find three weeks later, the tenure was 50 basis points lower. It's material changes in financial conditions that last, that are persistent, that really matter. We don't know that about these. What we've seen so far, we're watching it, we're doing the decompositions, and reading others, but right now, it's not a major factor in how we're thinking about things. 
+
+Chris. Thank you, Chris Rugeber at Associated Bankers. 
+Thank you, Associated Press. You mentioned the positive economic data that we've seen since the September meeting, including the revisions to things like savings, higher GDP growth. We saw a stock market jump yesterday. That's renewed some of the questions about why do many cuts at all with this backdrop? 
+POWELL
+You're right. As I mentioned, and as you mentioned, the latest economic data have been strong, and that's, of course, a great thing, and highly welcome. Of course, our mandate is maximum employment and price stability, and we think that even with today's cut, policy is still restrictive. 
+We understand it's not possible to say precisely how restrictive, but we feel that it is still restrictive. If you look at our goal variables, the labor market has cooled a great deal from its overheated state of two years ago, and is now essentially in balance. It is continuing to cool, albeit at a modest rate, and we don't need further cooling. We don't think to achieve our inflation mandate, so that's the labor market. 
+Inflation has moved down a great deal from its highs of two years ago, and we judged, as I mentioned, that it's on a sustainable path back to 2%, so the job's not done on inflation. If you look at those two things, we judged in September that it was appropriate to begin to recalibrate our policy stance to reflect this progress, and today's decision is really another step in that process overall, as I mentioned. We believe that with an appropriate recalibration of our policy stance, we can maintain strength in the labor market, even as our policy stance enables further progress toward our inflation goal.
+
+QUESTIONS
+Great. Just to follow up, what might cause you to pause rate cuts in December? What kind of economic data would lead you to that path? Thank you. 
+
+POWELL
+We haven't made any decision like that at all, so we're in the process, as I mentioned, of moving policy down, our stance down over time to a more neutral level, and as a general matter, as we move ahead, we are prepared to adjust our assessments of the appropriate pace and destination as the outlook evolves. 
+So for example, if we were to see the labor market deteriorating, we'd be prepared to move more quickly. Alternatively, as we approach levels that are plausibly neutral, or close to neutral, it may turn out to be appropriate to slow the pace at which we're dialing back restriction. Again, I haven't made any decisions about that, but that's certainly a possibility. 
+If you can think of it as similar to what we do with asset runoff, with QT. So we reach a point where we slow the pace, much like an airplane reaching the airport slows down. And so we're thinking about it that way, but it's something that we're just beginning to think about. 
+
+Edward. Thanks, Chair Powell. 
+So with the noise in the jobs reports that we've seen, and you look at the Fed's favorite inflation, PCE inflation, overall it's 2.1%, very close to the Fed's target, but core inflation is 2.7%, and it's been that way since July. So why doesn't this data give fuel to a rate pause for this meeting? 
+POWELL
+Well, so I think if you look at the three and six month, you're quoting the 12 month. So we look at all of them, right? But if you look at the three and six month core PCE, you'll see they're around 2.3%. So we look at all of them, and we look at 12 as well, but what it's telling us is that we really have made significant progress, and we expect there to be bumps. For example, the last three months of last year, the core PCE readings were very, very low, probably unsustainably low. So that's why you see, that's why forecasts generally see a couple of upticks toward the end of the year. 
+On the other hand, the January reading certainly looks like an example of residual seasonality, so that we saw last year. So when that falls out of the 12 month calculation in February, we should see a thing down. So it will literally be a bump up and then down. We understand that. Overall, you see the progress on inflation, and you also look at the economy, and you say what is the inflation story now? Where is it coming from? 
+So I point to a couple of things. One is the non-housing services and goods, which together make up 80% of the core PCE index, are back to the levels they were at the last time we had sustained 2% inflation, which happens to be in the early 2000s, for a period of 5, 6, 7 years. 
+So they're back to that level. What's not is housing services. So let's talk about housing services housing services is higher what's going on There is you know market rents newly signed leases are experiencing very low inflation and what's happening is older You know Leases that are turning over are taking several years to catch up to where market Market leases are market rent leases are so that's just a catch-up problem. It's not really reflecting current inflationary pressures It's reflecting past inflationary pressures. So That's um, that's one one thing. 
+The other thing is I'd say look at the labor market not a source of inflationary pressures Where is it coming from? It's not a very tight economy. What is the story about inflation? You see that catch-up inflation also in insurance and in several other areas. 
+So you're seeing We're not we're not declaring victory obviously But we feel like the story is very consistent with inflation Continuing to come down on a bumpy path over the next couple of years and settling around 2% That story is intact and it won't be one or two really good months or bad data months aren't going to really change the pattern at this point, now that we're this far into the process. 
+QUESTION
+So you're quickly trying to get to that neutral rate that you see or do you foresee that you have some time to get there? 
+POWELL
+Nothing in the economic data suggests that the committee has any need to be in a hurry to get there We are seeing strong economic activity we are seeing ongoing strength in the labor market We're watching it carefully, but we do see maintaining strength there And so we think that that the right way to the right way to find neutral if you will is carefully patiently Again, that's not meant to have a specific meaning other than we to the extent that the extent the economy remains strong We have the ability to to take advantage of that as we try to navigate that that middle path between the two risks 
+
+Hi chair Powell Craig Torres from Bloomberg 
+two questions today Did you learn anything about what Americans think about the economy from the election results? first question second question I want to talk about some labor market indicators and I do so with great respect for your attentiveness to the maximum employment side of the mandate sure So the unemployment rate has been at 4% or higher for six months One of the broadest measures of unemployment is up about a half a point from a year ago Compensation gains are sliding back The quits rate a signal of labor market dynamism has been heading down to that bad neighborhood of the 20 teens So you put a marker at Jackson Hole saying any further cooling is unwelcome It is cooling generally a little bit further So at what point do we reach what you would describe as a shortfall from maximum employment? Thank you.
+
+POWELL
+Sure So when your first question, I'm not going to talk about anything that relates directly into order indirectly to the election on the second one.
+ You're you know, this is the great question and so when we think about all the time, so I'll just say a couple things You know nothing there's nothing really surprising here what we know is that the unemployment rate is low We also know that it's come down significantly. Sorry moved up significantly from a year or so ago. 
+So we've seen a big change upward in unemployment Sometimes that has meant bad things so far It doesn't appear to be it appears that the I wouldn't say that the labor market is fully stabilized Because I do think it's continuing to very gradually cool. But it seems to be in a good place and our policy Of course is designed to keep it in that good place to maintain the strength in the labor market while also enabling further progress on inflation, you know. You mentioned a bunch of Indicators and and you're right, you know the The Openings to unemployment rate is back to a normal level. 
+I would I would characterize it more broadly as normalizing you mentioned wages Wages are still running just a bit above where they would need to be to Be consistent with 2% inflation unless productivity is going to remain at this high level if we see that if we see productivity You know more sustainably at these high levels then that would sustain higher wage gains. 
+So I would say in fact, you can say it the other way That that wage increases are now consistent with 2% inflation given current Productivity readings, but of course that you know, the the lure on productivity readings is whenever you see high readings You should assume they're gonna revert pretty quickly to the longer term trend that has always been the case for 50 years.
+But you know, it may be that we were now five years if you look at the NIPA revisions that came out a month ago We're five years into into a nice Set of productivity readings which are sustained and very healthy, but overall it's a good labor market We could talk about 20 different data series. We'll be looking at all of them, of course but You know, we don't want the labor market to to soften much from here We don't think we need that to happen to get inflation back to 2% 
+
+Hi Victoria Guido with Politico 
+Some of the president's elects advisers have suggested that you should resign if he asked you to leave would you go? Can you follow up on is it do you think that legally you're not required to leave Like 
+
+Michael McKee from Bloomberg radio and television 
+You talk a lot about What the data are telling you and how you are dependent on the data, but in terms of forward-looking Assessments of the economy. What are you hearing from CEOs or other officials around the country? What did you hear today from the regional bank presidents about what companies and? 
+
+POWELL
+Consumers think about where the economy is going from here rather than looking backwards and does that match up? With what your forecasts have been and what you think the appropriate policy path should be so It's hard to characterize a you know, really interesting set of discussions. 
+We had and you of course, you'll see them in the minutes In three weeks, but I would say this I think you know the the comments from Our reserve bank colleagues and from the CEOs that they talked to are pretty constructive on the economy right now pretty constructive feeling that the labor market is is You know back to normal to the point where it's no longer that much of a discussion topic in their worlds Whereas two years ago it was all they were talking about. 
+So they feel like the labor markets in balance, people feel good about where the economy is demand is obviously pretty strong. And you see you're seeing what 2.8 percent growth in the third quarter estimated maybe the years two and a half This is this is you know, this is a strong economy. It's it's actually remarkable how well the US economy has been performing with you know, strong growth a strong labor market inflation coming down. 
+We're You know really performing better than any of our global peers. And I think that is reflected in what you hear from What I hear people hear from CEOs. I don't get to talk to a lot of CEOs in my job. But I hear what others summarize from those and of course I hear the Reserve Bank presidents do a lot of that and it's pretty constructive overall. Now That's not to say there are areas of caution and and things like that, but ultimately overall pretty positive.
+QUESTION
+ The areas of caution if there were black clouds on the horizon that you identified as something you're watching What would they be? 
+POWELL
+I think it's you know, it's things like Clearly Geopolitical risks around the world are elevated and just as clearly they've had relatively little effect on the US economy Now that can change through the price of oil or otherwise But people talk about those as you know, something that's on the horizon all the time But you know ultimately if you look at the US economy, it's its performance has been very good and That's what that's what we hear from business people an expectation that that will continue if anything people feel Next year. I heard this from several people that next year could even be stronger than this year.
+
+Hi, it's Andrew Ackerman with the Washington Post 
+I just wanted to follow up on the discussion earlier on fiscal policy your predecessors Greenspan and Volcker spoke up loudly when they thought large budget deficits endangered financials economic or financial stability, will you do that too and 
+POWELL
+Right. Now we're in a period of full employment. We have large budget deficits and debt at historic and Historic highs that are in rising Is that something you'd speak out against so, you know, I have said Many times no more. No, no less than what predecessors you mentioned have said and what that is is that the US fiscal federal government's fiscal path Fiscal policy is on an unsustainable path. The level of our debt relative to the economy is not unsustainable. 
+The path is unsustainable and we see that in you know, you've got a very large deficit at you're at full employment And that's expected to continue. So It's important that we you know that that to be dealt with it is ultimately a threat to the economy now I can say that I don't have oversight. We don't have oversight over fiscal policy. I've said it on many occasions. Just said it again Okay. Thank you. 
+
+Um, I guess the other other question is To follow up on Victoria's question. Do you believe the president has the power to fire or demote you and it has the Fed determined the legality of a president? Demoting at will any of the other governors with leadership positions not permitted under the law Now what not permitted under the law? 
+
+Courtney Brown from axios 
+In response to Howard's question, you said it wasn't an ideal time to give forward guidance because of the economic uncertainties Can you lay out what some of those uncertainties are and whether or not includes some of the proposals? That the president-elect has put out on the campaign trail tariffs, for instance No, I was not referring to it to the new administration's policies at all. Nor will I today? 
+
+POWELL
+So what I'm just saying is As we look ahead We know as I mentioned this in my statement that With that the risks are two-sided I guess I should start by saying that we think that the economy and we think our policy are both in a very good place and But as you look forward you say what are the risks and one risk is that we would move too quickly and Find ourselves having moved too quickly and inflation comes back.
+And we and we lost our chance to get inflation back to 2% So we have to avoid that risk and that that to avoid that risk That means you want to move carefully. 
+The other risk is that we move too slowly and that we allow the labor market to weaken too much and Do unnecessary damage to the labor market and the people's working lives that it that that says don't get behind the curve So these are two these two things are the two risks that we have to manage and so we're in the middle there We try to be in the middle and deal with both of them manage both of those again. 
+The idea is to maintain Support the strength we have in the labor market and in the economy, but also with a with Somewhat less restrictive but still restrictive policy Enable further progress toward our 2% inflation goal there either so there's you know, they're this is a thing We're meeting by meeting. We're going to be making our assessment of What the right path is, you know, it's not as important the precise timing of these things is not as important as the overall arc of them and the arc of them is to move from Where we are now to a sense of neutral a more neutral policy. We don't know exactly where that is We only know it by its works We were pretty sure it's below where we are now But as we move further, there will be more uncertainty about where that is and we're gonna move carefully As as this goes on so that you know, we can increase the chances that we will get it right.
+
+Thank You chair Powell Simon from the Economist 
+I know you don't want to share your decomposition of bond yields But if you look at the breakevens, it is clear that longer term inflation expectations do seem to have risen Up at about 2.5 percent. For example on the five-year. That's up half a point from when you cut in September Do you have any concern at all that longer term inflation expectations are de anchoring? Or put another way are anchoring at a slightly higher level? Thanks. 
+
+POWELL
+So we would be concerned if we saw If we thought we saw Longer term inflation expectations anchoring at a higher level. That's not what we're seeing We're still we're still seeing between surveys and market readings Broadly consistent with you know, I was I looked at the five-year five-year Earlier today and it's probably moved but it's just not it's just it's kind of right where it's been and also it's pretty close to Consistent with 2% PCE inflation. So that's one that's been a traditional one that we look at a lot, but overall Expectations seem to be and they have really have throughout this In a place that's consistent with 2% inflation But you're right to say we watch that very carefully and we would we will not allow inflation expectations to drift Upward, but that's that's really why we reacted so sharply back in 2022 was to avoid that.
+
+Chair Powell Kelly O'Grady CBS News. 
+We just talked about what you've heard from business leaders on the economy But many average Americans are still not feeling the strength of the economy in their wallets So what's your message to them on when they might expect relief? 
+POWELL
+So You're right that we know we say the economy is performing well, and it is But we also know that people are still feeling the effects of high prices for example And we went through the world went through a global inflation shock and inflation went up everywhere And you know it it stays with you because the price level doesn't come back down. 
+So what that takes is it takes some years of real wage gains for people to feel better And that's what we're that's what we're trying to create and I think we're well on the road to creating that Inflation has come way down the economy is still strong here wages are moving up But at a sustainable level so it's just I think I think what needs to happen is happening and for the most part has happened 
+But it'll be some time before people you know Regain their confidence and feel that and you know we don't tell people how to feel about the economy We respect completely respect what they're feeling those feelings are true. They're accurate. We don't question them. We you know we respect Just a quick follow-up president-elect Trump has been critical of your performance any concern about his influence on the feds independence I'm not gonna. I'm not gonna get into any of the political things here today, but.
+
+Thank you Hi chair Powell Nancy Marshall with marketplace 
+What is your plan if we start to see stagflation?
+POWELL
+So That's a you know The whole plan is not to have stagflation, so we don't have to deal with it, so that's our that is actually our plan You know it's of course a very difficult thing because you're you know you're you're Anything you do with interest rates will Will hurt one side or the other either the inflation mandate or the employment mandate, I would just say that you know we we've been able to see inflation come down a Whole lot you know much closer to our our goal without the kind of sharp increase in unemployment that is often accompanied programs of disinflation so Knock on wood we've gotten this far Without seeing a real weakening and in in the labor market and we believe we can complete the inflation task While also keeping the labor market strong and that of course is exactly what we're trying to do.
+
+QUESTION
+Can you rule out an interest rate hike next year? 
+
+POWELL
+No, I wouldn't rule anything out or in that far away, but that's certainly not it not our plan I mean our baseline expectation is that we'll continue to To move gradually down towards neutral that the economy will continue to grow at a healthy clip and that the labor market will remain strong if you look at our look at our that that will not change from September SEP that that is our baseline forecast and Short of some exogenous event that will continue to be our forecast for the foreseeable future So but but ultimately, you know, it's it's we're not in We're not in a world where we can afford to rule rule things out a full year in advance It's just too much uncertainty what we do I Wanted to go back to a comment that you had made about Americans being quite unhappy about the cumulative price level rises over the past few years Even though now inflation is back on a path to 2% Would it be appropriate for the Fed to undershoot for a while on its inflation goal under the average inflation targeting regime? So people have a chance to catch up No, that's that's not the way our framework works. We're aiming for inflation at 2% We do not have we did not think it would be appropriate to to deliberately undershoot And you know part of the problem there is that low inflation can be a problem, too In a way, but that's not part of our framework and it's not something we're gonna be gonna be looking at in our framework review Thank you very much.
+###
+パウエル
+こんにちは。私と私の同僚は、米国民の利益のために最大限の雇用と安定した物価という二つの目標を達成することに、引き続き全力を傾けています。経済は全体的に堅調であり、過去2年間で目標に向けて著しい進展を遂げました。労働市場は以前の過熱状態から冷え込み、依然として堅調です。インフレ率はピーク時の7％から9月には2.1％へと大幅に低下しました。
+私たちは、最大限の雇用を支援し、インフレ率を2％の目標に戻すことで、経済の強さを維持していくことを約束している。本日、FOMCは政策金利を0.25％引き下げることで、政策の抑制度をさらに一段階引き下げることを決定した。私たちは、政策スタンスを適切に再調整することで、経済と労働市場の強さを維持し、インフレ率を2％に向けて持続的に低下させることができると引き続き確信している。
+また、保有証券の削減を継続することも決定した。経済情勢を簡単に振り返った後、金融政策についてさらに詳しく述べたい。最近の指標は、経済活動が堅調なペースで拡大を続けていることを示している。第3四半期のGDPは前期比年率2.8%増加し、第2四半期とほぼ同じペースであった。個人消費の伸びは底堅く、設備や無形資産への投資は強まった。
+ 一方、住宅部門の活動は低迷している。全体として、供給状況の改善が、この1年間の米国経済の好調なパフォーマンスを支えてきた。労働市場では、状況は依然として堅調である。給与所得者の増加ペースは年初から鈍化しており、過去3ヶ月間の平均は月額10万4000ドルとなっている。10月の雇用に労働争議やハリケーンの影響がなければ、この数字はもう少し高かっただろう。
+ハリケーンに関して、これらの壊滅的な嵐により被害を受けたすべての家庭、企業、地域社会に心よりお見舞い申し上げたい。失業率は1年前と比較すると著しく高いが、過去3か月間は低下傾向にあり、10月は4.1%と低水準を維持している。名目賃金の伸びは過去1年間で鈍化しており、雇用者数に対する労働者数の割合は縮小している。
+全体として、幅広い指標が示すところによれば、労働市場の状況は2019年のパンデミック直前よりもタイトではなくなっている。労働市場は大幅なインフレ圧力源ではない。
+過去2年間でインフレは大幅に緩和した。変動の大きい食品とエネルギーのカテゴリーを除いた場合、9月までの12か月間におけるPCE価格指数の上昇率は2.1%であった。それ以前のPCE価格指数の上昇率は2.7%であった。全体として、インフレ率は我々の2%という長期的な目標にかなり近づいているが、コア・インフレ率は依然としてやや高い水準にある。長期のインフレ期待は、家計、企業、予測者に対する広範な調査や金融市場の指標に反映されているように、依然としてしっかりと定着しているように見える。
+我々の金融政策は、米国国民のために最大限の雇用と安定した物価を促進するという2つの責務に基づいて実施されている。我々は、雇用とインフレの目標達成に対するリスクはおおむね均衡していると見ており、我々の責務の両面におけるリスクに注意を払っている。本日の会合において、委員会はフェデラル・ファンド金利の目標範囲を0.25%引き下げ、4.5%から4.75%とすることを決定した。
+この政策スタンスのさらなる調整は、経済および労働市場の強さを維持するのに役立ち、また、より中立的なスタンスへと時間をかけて移行するにつれ、インフレのさらなる進展を可能にし続けるだろう。政策の抑制を急激に減らすことは、インフレの進展を妨げる可能性があることを我々は理解している。同時に、政策の抑制を減らすのが遅すぎると、経済活動および雇用が過度に弱まる可能性がある。
+FF金利の目標レンジに対する追加的な調整を検討するにあたり、委員会は今後発表されるデータ、変化する見通し、リスクのバランスを慎重に評価する。我々はあらかじめ定められたコースを歩んでいるわけではない。今後も会合ごとに決定を行っていく。経済が変化するにつれ、金融政策は最大限の雇用と物価安定という目標を最大限に促進するように調整される。
+もし経済が堅調を維持し、インフレ率が2%に向かって持続的に上昇しない場合には、政策の抑制をよりゆっくりと緩和することができる。労働市場が予想外に弱含んだり、インフレ率が予想以上に急速に低下した場合には、より迅速に対応することができる。
+政策は、私たちが直面するリスクや不確実性に対処する上で、適切な位置づけにある。FRBには、金融政策の目標として、最大限の雇用と物価の安定という2つの目標が課せられている。私たちは、最大限の雇用を支援し、持続可能な方法でインフレ率を2%の目標に近づけ、長期的なインフレ期待を適切に維持することに引き続き専心する。
+これらの目標を達成する我々の成功は、すべてのアメリカ人に影響を与える。我々の行動が、全国のコミュニティ、家族、企業に影響を与えることを理解している。我々の行動はすべて、公共の使命に奉仕するものである。FRBは、最大限の雇用と物価安定の目標を達成するために全力を尽くす。ありがとうございました。議論を楽しみにしている。ありがとうございました。
+質問
+選挙結果を受けて、来年には米国経済に大きな影響を与える政策が打ち出されることが予想されるが、委員会は今後、12月の次回決定会合を含め、これらの提案をどのように考慮して決定を行っていくのか？ また、次期政権による経済政策の変更に対して、FRBがどの程度積極的または消極的に対応するつもりなのか、もう少し詳しく教えてほしい。
+パウエル
+もちろんだ。まず、短期的には、選挙は我々の政策決定に影響を及 したがって、経済にどのような影響があるのか、具体的には、それらの政策が目標変数 推測も憶測も仮定もしない。しかし、原則的には、いかなる政権の政策であれ、あるいは議会が打ち出す政策であれ、長期的にFRBの2つの責務の目標達成に影響を与えるような経済効果をもたらす可能性はある。 したがって、無数の他の要因とともに、そうした経済効果の予測も、経済モデルに組み込まれ、その経路を通じて考慮されることになる。
+
+ニック、ニック。パウエル議長、ウォールストリート・ジャーナルのニック・ティマーロスです。
+およそ1年前、10年物米国債が5%に迫り、30年物住宅ローン金利が8%近辺にあったとき、あなたは借入コストの上昇が持続した場合、それが経済活動に重しとなる可能性について言及しました。政策は抑制的であり、FRBは現在その抑制を緩和しているとあなたが述べていることを踏まえると、米国債利回りの上昇による成長リスクは、インフレ率が依然として目標を大幅に上回っていた1年前にあなたが指摘したリスクと何か違いがあるだろうか？ 
+
+パウエル
+それについて申し上げたいのは、債券金利の上昇は私たちが注視しているが、もちろん1年前の水準にはほど遠いということだ。長期金利は、その水準をかなり下回っていると思う。 だから、我々はそれを注視している。 状況は変化しており、今後、どこで落ち着くか見ていきたい。 どこで落ち着くかについて、現時点で断定的なことを言うのは時期尚早だ。 最終的には、我々は皆、こうした要因分解を読んだことがあるだろうし、私も読んだことがあるが、我々の具体的な要因分解を示すのは我々の仕事ではない。
+しかし、私は、これらの動きは主としてインフレ期待の高まりを理由としたものではないと申し上げたい。それらは、より力強い成長の可能性の高まりと、おそらくは下方リスクの減少を理由としたものである。それが理由だ。我々は金融情勢を考慮に入れている。それが持続的で、かつ重大なものである場合には、我々の政策に確実に反映させる。しかし、現時点では、そのような段階にはないと言いたい。
+ただ、我々はそれを見守っている。繰り返しになるが、こうしたことは主にFRBの政策とは関係なく、経済の他の要因と関係している。補足すると、9月のSEPにおける金利予測はまだ有効なのか？ 現在の状況を踏まえても、依然として妥当な予測と言えるのか？ ご存知のように、前回の予測から次の予測までのサイクルの半分が過ぎたところだ。どちらとも言いたくない。
+
+前回会合以降に入手したデータについて話そう。 概して、経済活動データは予想よりも強かった。 NIPAの改定値は強かった。 9月の雇用統計は確かに強かった。 10月の報告書は、強くない。 全体的には、特にNIPAの改定値によって、経済活動に対する下方リスクが減少したという見方ができると思う。 全体的には、経済活動について良い感触を持っている。だから、それを考慮に入れると思う。同時に、インフレ報告書が1つ発表されたが、ひどいものではなかったが、予想よりもやや高かった。だから、本当に問題となるのは12月で、12月までにはより多くのデータが得られるだろう。雇用報告書がもう1つ、インフレ報告書が2つ、その他にも多くのデータが得られるだろう。そして、12月になるまでに決定を下すことになる。
+
+ニューヨーク・タイムズのジーナ・スミリックだ。
+パウエル議長、質問に答えてくれてありがとう。12月が近づいたとき、その決定を下すにあたって具体的に何を検討するつもりなのか？ また、9月のFRBの経済予測では、2025年に4四半期分の金利引き下げを書き留めていた。今でもその可能性が高いと考えているか？現時点では、そのような見通しがベースラインになっているのか、それとも変化したのか？ もし変化したのであれば、その理由について少し詳しく説明してもらえるか？
+パウエル
+我々はSEPを記入していないし、今日記入されていないものを特徴づけることはできない。従って、委員会がどのような状況にあるのかについて、私が正確に話すことはできない。12月については、繰り返しになるが、我々はすべての会議において、入ってくるデータとそれが見通しにどのような影響を与えるかを見極めるつもりだ。
+ご存じのように、私たちはかなり制限的な水準である5.33%から再調整を行っている最中である。今日の動きを受けて、75ベーシスポイント低下したが、それが妥当な水準なのか自問している。私たちは、あまりにも急速に動いてインフレの進展を損なうリスクと、あまりにもゆっくりと動いて労働市場が弱くなりすぎるリスクとの間でバランスを取ろうとしていることをご存じだろう。
+労働市場の強さを維持しながら、インフレのさらなる進展も可能にする中道を歩もうとしている。我々は、我々は今その位置にいると考えているが、9月やその他の会合で、その点について検討することになるだろう。繰り返しになるが、委員会の考えについて、この会合ではSEPを提出しないため、皆さんに最新情報を提供することはできない。
+質問
+ええ、その点はよく理解している。ご自身の考えについてだが、2025年の100％の利下げは妥当な見通しだとお考えか？
+パウエル
+繰り返しになるが、12月の状況を見守りたい。ただ、こう言える。我々はより中立的なスタンスに向かっている。まさにその方向に向かっているのだ。9月以来、まったく変わっていない。我々は、データが示す方向性を見守るしかない。12月の決定に向けて、今後6週間分のデータを見ることになる。もちろん、私はそれを排除するわけでも、支持するわけでもないが、繰り返しになるが、SEPを更新していないので、委員会がどのような立場を取るかを断定することはできない。
+
+ハワード。ありがとう。ハワード・シュナイダー（ロイター）
+声明の文言における2つの変更について、もう少し詳しく説明していただけますか？最初の段落で「インフレが進展した」と述べているが、「さらなる進展」という表現は削除した。また、2つ目の段落では、「インフレが2%の目標に向かって進展しているという委員会の自信が深まった」という文章を削除した。これらの文言変更の背景には、政策的な意味合いがあるのか？12月の利下げの可能性に道を開くという意味なのか？ 過去3ヶ月間のコアインフレの粘着性について何かを伝えるという意味なのか？ 
+パウエル
+いいや、そうではない。我々の考えを説明しよう。さらなる信頼を得るための試みは、最初の金利引き下げのための試みだった。我々は9月にその試みを達成したので、その 
+重要なのは、2%という持続可能な目標に向かって進んでいるという自信を得たということだ。それが本当に重要なことだ。シグナルを送ることを意図したものではない。どちらもさらなるシグナルを送ることを意図したものではない。さらなる進展と言った以上、それは試練となる。私が言ったことにはかなりの不確実性があるため、多くのフォワード・ガイダンスを行うにはまだ時期尚早だと考えている。
+我々が歩んでいる道筋については、最終目的地はわかっているが、適切なペースはわからないし、最終目的地がどこなのかも正確にはわからない。重要なのは、そのペースと目的地を見つけ出すことだ。その点についてはかなりの不確実性があると思う。ガイダンスに縛られるのは避けたい。状況に応じて賢明な判断を下せるようにしておきたい。
+
+スティーブ？ スティーブ・リースマン、CNBC。
+議長、あなたは金利上昇について話したが、それは恐らく成長率の上昇を期待してのことだろう。しかし、財政赤字の拡大を期待しての話ではなかった。最近の金利上昇の背景には、財政赤字の拡大があると考えているのか？また、財政赤字の拡大は懸念事項なのか？
+パウエル
+財政政策ではよくあることだ。繰り返しになるが、債券利回りを動かす要因について、これ以上多くを語るつもりはない。しかし、政策変更という観点では、通常の場合にこれがどのように作用するかを説明しよう。例えば、議会が税法の改正を検討しているとしよう。その内容が何であるかは問題ではない。我々はそれに従う。
+ある時点で、私たちは概要が見えたと思うので、モデル化を開始する。そして、待つ、待つ。ある時点で、スタッフがFOMCにブリーフィングを行い、こういった影響が予想されると述べる。税制変更が経済のさまざまな部分に及ぼす影響については、多くの文献がある。我々はそれについて賢明であろうとし、そして実際に法律が可決される。それを組み込み始める...おそらく、人々が理解しようとするのを助けるために、それが起こる前に代替シミュレーションを行うだろう。そして実際に可決されると、それは100万もの他の事柄とともにモデルに組み込まれる。我々の経済は非常に大きい。多くのことが常に影響している。何らかの法律改正はそこに組み込まれるが、組み込まれるだろう。それには時間がかかるプロセスだ。立法プロセスには明らかに多くの時間がかかる。
+もちろん、本当に問題となるのはその法律の影響ではない。起こり得る政策変更すべてだ。その時点での経済への純効果、全体的な効果は何か？ それには時間がかかるプロセスであり、政権が変わるたびに常に経験することだ。
+今回も同じだろう。現時点では、モデル化できるようなものは何もない。まだ初期段階だ。政策がどのようなものになるのかもわからない。政策が明らかになったとしても、それがいつ実施されるのか、あるいはその類のことは何もわからない。今、それについて言えることはない。
+それには時間がかかるし、実行するとしても、それはきわめて正規のプロセスとなるだろう。ニックの質問について補足すると、現在の金利水準は、経済に規制を加えることで政策の方向性とは逆行しているが、それに寄りかからなければならないと感じているのか、それとも、それは当然のこととして受け止め、むしろ減らすべきだというシグナルと捉えているのか？ まず第一に考えるべきは、それがいつまで維持されるかということだ。
+覚えている方もいると思うが、5%のテニュア（任期）について人々が下した結論は非常に重要なものだったが、わずか3週間後には50ベーシスポイントも引き下げられた。金融情勢における実質的な変化が持続し、根強く残る場合、それが本当に重要なのだ。我々は、これらのことについてまだ知らない。我々はこれまで見てきたこと、観察してきたこと、分析してきたこと、そして他者の意見を読んできたが、現時点では、物事を考える上で大きな要因とはなっていない。
+
+クリス、どうもありがとう。クリス・ルーゲバー、アソシエイテッド・バンカーズより。
+どうもありがとう、AP通信。9月の会議以降、我々が目にした経済のポジティブなデータについて、貯蓄やGDP成長率の修正などについて言及されたが、 昨日は株式市場が急上昇した。こうした状況下でなぜ大幅な利下げを行うのか、という疑問が再び出てきた。
+パウエル
+その通りだ。私が述べたように、またあなたも述べたように、最新の経済データは良好であり、もちろんそれは素晴らしいことであり、大いに歓迎すべきことだ。もちろん、我々の使命は最大限の雇用と物価の安定であり、今日の利下げ後も政策は依然として引き締め的であると考えている。
+どこまで引き締め的であるかを正確に述べることはできないが、依然として引き締め的であると考えている。我々の目標変数を見ると、労働市場は2年前の過熱状態から大幅に冷え込み、現在はほぼ均衡状態にある。緩やかなペースではあるが、引き続き冷え込みは続いており、これ以上の冷え込みは必要ない。インフレ目標を達成するには、労働市場は十分であると考えている。
+インフレ率は2年前の高値から大幅に低下しており、先ほど申し上げたように、2%への持続可能な回復軌道に乗っていると判断しているため、インフレ面ではまだ仕事が残っている。この2つのことを考慮すると、9月の時点で、この進展を反映して政策スタンスを再調整し始めるのが適切であると判断した。そして、本日の決定は、私が述べたように、全体的なプロセスにおけるさらなる一歩である。政策スタンスを適切に調整すれば、労働市場の強さを維持できると我々は考えている。政策スタンスがインフレ目標に向けてさらに前進することを可能にしながらも、である。
+
+質問
+素晴らしい。ただ、12月に利下げを一時停止する可能性がある理由について、もう少し詳しくお聞かせ願いたい。どのような経済データがあれば、そのような措置を取ることになるのか？
+
+パウエル
+そのような決定はまったくしていない。したがって、私は先ほど申し上げたように、政策金利を徐々に引き下げ、スタンスをより中立的な水準へと移行させるプロセスにある。一般論として、今後、見通しが変化するにつれ、適切な金利水準と金利見通しに関する我々の評価を調整する用意がある。
+例えば、労働市場が悪化していると判断すれば、より迅速な対応を行う用意がある。あるいは、中立的な水準、あるいは中立的な水準に近い水準に近づいた場合、規制緩和のペースを減速することが適切であると判断する可能性もある。繰り返しになるが、現時点ではまだ何も決定していないが、それは確かにあり得る。
+資産の流動化やQTに関して我々がやっていることと似たようなものだと考えてもらえればいい。つまり、我々はペースを落とす段階に達している。空港に近づく飛行機が減速するのと同じようなものだ。我々はそう考えているが、まだ考え始めたばかりだ。
+
+エドワード：パウエル議長、ありがとうございます。
+さて、私たちが目にしてきた雇用統計のノイズについて、そしてFRBが最も重視するインフレである個人消費支出（PCE）価格指数のインフレ率は全体で2.1％であり、FRBの目標値に非常に近い。しかし、コアインフレ率は2.7％であり、7月以来ずっとその状態が続いている。では、なぜこのデータが今回の会合での利上げの一時停止の材料にならないのか？
+パウエル：
+ええ、3か月物と6か月物を見れば、12か月物の数字を引用していることになる。我々はそれらすべてを見ている。しかし、3か月物と6か月物のコアPCEを見れば、2.3％前後であることが分かる。だから、私たちはそれらすべてを見ているし、12か月分も見ている。しかし、それらが私たちに伝えているのは、私たちは本当に大きな進歩を遂げているということだ。そして、今後は変動があるだろうと予想している。例えば、昨年の最後の3か月間、コアPCEの数値は非常に低かった。おそらく持続不可能なほどに低かった。だから、年末にかけて数値が2、3上昇すると予測されているのだ。
+一方で、1月の数値は、昨年見られた季節性の残存の例のように見える。そのため、それが2月の12ヶ月の計算から外れると、数値は下がることになる。つまり、文字通り、上昇と下降が交互に起こるということだ。我々もそれを理解している。全体としてインフレの進展が見られ、経済も見ている。そして、現在のインフレの要因は何か？ どこから来ているのか？
+そこで私はいくつかの要因を指摘する。1つは、コアPCE指数の80%を占める住宅以外のサービスと商品が、2%の持続的なインフレを最後に経験した時期、つまり2000年代初頭の5、6、7年間の水準に戻っていることだ。
+つまり、それらの要因は再びその水準に戻っている。しかし、住宅サービスはそうではない。それでは住宅サービスについてお話しましょう。住宅サービスは高くなっています。何が起こっているのか。市場家賃、新規に締結されたリースは、非常に低いインフレ率を経験しています。そして、何が起こっているのか。リースが更新され、市場家賃に追いつくのに数年かかっているのです。市場家賃は市場家賃なので、これは単に追いつくだけの問題です。現在のインフレ圧力を反映しているわけではない。過去のインフレ圧力を反映しているのだ。 これが1つ目の理由だ。
+もう1つの理由は、労働市場はインフレ圧力の要因ではないということだ。 インフレの要因はどこにあるのか？ 経済はそれほど逼迫していない。 インフレの要因は何か？ 保険やその他の分野でもキャッチアップ・インフレが起きている。
+つまり、勝利宣言をしているわけではないが、インフレ率は今後数年間、不安定な推移を続けながら2%前後で落ち着くという見通しに変わりはない。この見通しは揺るぎないものであり、1、2か月間の好調な数値や悪い数値によって、このプロセスが大きく変わることはないだろう。
+質問
+中立金利に早く到達しようとしているということですか、それとも、そこに到達するまでにはまだ時間があるとお考えですか？
+パウエル
+経済データからは、委員会がそこへ急ぐ必要があるという兆候は何も見られない。我々は力強い経済活動を目にしており、労働市場の継続的な強さを確認している。我々はそれを注意深く見守っているが、強さが維持されていることは確かだ。したがって、 中立的立場を見出す正しい方法は、慎重に辛抱強く待つことだ。繰り返しになるが、これは特定の意味を持つものではない。経済が堅調さを維持する限り、我々は2つのリスクの間の中道を歩むために、その好機を活用する能力があるということだ 
+
+パウエル議長、ブルームバーグのクレイグ・トーレスです。
+今日は2つの質問があります。選挙結果から、アメリカ人が経済についてどう考えているかについて、何か学びましたか？最初の質問、2つ目の質問。私は労働市場の指標についてお話したいと思います。私は、雇用最大化という責務に対するあなたの注意深さを大いに尊敬しています。確かに、失業率は6か月間4％以上で推移しています。失業率の最も広範な指標の1つは、 1年前から約0.5ポイント上昇している。賃金上昇率は後退している。労働市場のダイナミズムを示す退職率は、20％台という悪い数値に向かって低下している。ジャクソンホールでは、これ以上の景気後退は望ましくないという見解を示した。全体的に見て、景気はさらにやや後退している。最大雇用水準からの不足を、どの時点で達成するとお考えか？
+
+パウエル
+もちろんだ。最初の質問についてだが、2つ目の質問の選挙に直接・間接的に関係するようなことは一切話さないつもりだ。
+これは素晴らしい質問だ。いつも考えていることだが、2、3言っておきたい。驚くようなことは何もない。我々が知っているのは、失業率が低いということだ。また、大幅に低下していることも知っている。申し訳ないが、1年ほど前からは大幅に上昇している。
+失業率は大幅に上昇している。これまで、それが悪いことを意味することがあったが、今回はそうではないようだ。労働市場が完全に安定しているとは言えない。なぜなら、私はそれが非常に緩やかに冷え続けていると思うからだ。しかし、労働市場は良い状態にあるように思える。もちろん、我々の政策は、労働市場の強さを維持しながら、インフレのさらなる進展も可能にするよう、その良い状態を維持するように設計されている。あなたは多くの指標について言及したが、その通りだ。失業率と失業率のギャップは正常な水準に戻っている。
+私は、より広義に捉えて正常化と表現したい。賃金について言えば、賃金は依然として2%のインフレ率と一致させるにはやや高い水準にある。生産性がこの高い水準を維持できるのであれば、賃金はさらに上昇するだろう。
+つまり、実際には、別の言い方をすれば、現在の生産性の数値を考慮すると、賃金上昇率は2%のインフレ率と一致していると言える。もちろん、生産性の数値は、高い数値が出ると、すぐに50年間ずっと続いてきた長期トレンドに戻ると想定すべきだ。
+しかし、1か月前に発表されたNIPAの改定値を見ると、今から5年後になる可能性もある。生産性の数値は、健全な状態が維持され、非常に健全な数値を示している。しかし、全体的には労働市場は良好だ。20の異なるデータシリーズについて話すことができる。もちろん、それらすべてを検討するつもりだが、労働市場がここから大きく軟化することは望んでいない。インフレ率を2%に戻すために、そうした事態が必要だとは思わない 
+
+ヴィクトリア・グイド（ポリティコ）
+次期大統領のアドバイザーの何人かが、もし彼があなたに辞任を求めたら、あなたは辞任するつもりかと尋ねている。あなたはそれに従うつもりなのか？法的には辞任する必要はないと思うか？
+
+マイケル・マッキーがブルームバーグのラジオとテレビで
+話していたように、あなたはデータが何を語っているか、また、データにどれほど依存しているかについてよく話しているが、経済の見通しについて、全国のCEOやその他の関係者からどのような意見を聞いているのか？ また、企業や消費者が経済の先行きについてどう考えているかについて、今日、地域の銀行の頭取からどのような意見を聞いたのか？
+
+パウエル
+消費者たちは過去を振り返るよりも、むしろ経済が今後どこに向かうのかについて考えている。それは一致しているだろうか？ これまでの予測と、適切な政策の方向性についてどう考えているか。本当に興味深い議論だった。
+我々は、そしてもちろんあなたも、3週間後に議事録でそれらをご覧になるだろうが、私はこう言いたい。FRBの同僚や彼らが話をしたCEOたちのコメントは、現在の経済についてかなり建設的であり、労働市場についてもかなり楽観的な見通しを持っている。2年前には彼らの話題の中心だったが、今ではもはやそれほど議論の対象ではなくなっている。
+労働市場は均衡状態にあり、人々は経済の現状に満足している。需要は明らかに非常に強い。そして、第3四半期の2.8%の成長率は、おそらく今後2年半は続くだろう。これは、強い経済の証である。米国経済がこれほどまでに好調で、力強い成長、力強い労働市場、インフレ率の低下を達成していることは、実に驚くべきことだ。
+我々は、世界中のどの国よりもはるかに優れた業績を上げている。そして、それはCEOたちから聞こえてくる声にも反映されていると思う。私は仕事柄、多くのCEOと話す機会があるわけではないが、他の人々が彼らについてまとめた意見は耳にする。もちろん、連邦準備銀行の総裁たちがそうした意見を多く述べているが、全体的にはかなり建設的なものだ。もちろん、警戒が必要な分野や、そういったものもあるが、全体的にはかなりポジティブだ。
+質問
+ 警戒が必要な分野について、もし地平線に黒い雲が見えるとしたら、あなたが注目しているものは何だろうか？
+パウエル
+それは、例えば、世界中で地政学上のリスクが高まっていることや、米国経済への影響が比較的少ないことなどだ。しかし、原油価格やその他の要因によって状況は変わる可能性がある。しかし、人々は常に地平線上に何かが迫っていると口にする。常に地平線上に存在するものとして語られている。しかし、米国経済を最終的に見れば、そのパフォーマンスは非常に良好であり、それがビジネスパーソンから聞こえてくる声であり、来年もその傾向が続くと期待されている。来年は今年よりもさらに好調になる可能性もあると、複数の人から聞いた。
+
+ワシントン・ポストのアンドリュー・アッカーマンです。
+先ほど財政政策に関する議論があったので、そのフォローアップをしたいと思います。前任者のグリーンスパン氏やボルカー氏は、財政赤字が大きくなると金融経済や金融の安定性が脅かされると考え、大きな声で発言していました。あなたもそうしますか？
+パウエル
+その通り。現在、完全雇用時代にある。我々は、歴史的な高水準の財政赤字と債務を抱えており、その額は増加している。あなたはこれに反対の声を上げるつもりなのか？私は何度も「もうたくさんだ」と言ってきた。いいや、あなたが言った前任者たちと同じことを言っているだけだ。つまり、米国の連邦政府の財政政策は持続不可能な道を歩んでいるということだ。経済に対する負債の割合は持続不可能ではない。
+持続不可能なのは財政政策の方であり、それは完全雇用下で非常に大きな赤字を抱えていることからも明らかだ。そして、それは今後も続くと予想されている。だから、我々にとって重要なのは、それを処理することであり、それは最終的には経済への脅威となるということだ。私は、財政政策を監督する立場にはないと断言できる。私は何度も言ってきた。今も言ったばかりだ。 よし、ありがとう。
+
+ええと、もう一つの質問は、ビクトリアの質問の続きだ。あなたは大統領があなたを解雇したり降格させる権限を持っていると信じているか？また、FRBは大統領の合法性を決定しているのか？ リーダーシップポジションにある他の理事を自由に降格させることは法律で認められていない。では、法律で認められていないのは何なのか？
+
+axiosのCourtney Brown
+ハワードの質問に対して、あなたは経済の先行きが不透明であるため、フォワード・ガイダンスを行うには時期尚早だと述べた。そうした不透明性の一部を挙げ、その中にいくつかの提案が含まれているかどうかを説明してもらえるか？例えば、次期大統領が選挙キャンペーン中に関税を課すと言っていたことなど。いいえ、私はまったく新しい政権の政策について言及していなかった。今日も言及しないのか？
+
+パウエル
+私が言いたいのは、将来を見据えると、私が声明で述べたように、リスクは二面性があるということだ。まず、経済と政策はどちらも非常に良い状態にあると考えていると申し上げたい。しかし、将来を見据えると、どのようなリスクがあるだろうか。一つのリスクは、あまりにも急速に動いてしまい、自分たちが急速に動き過ぎたことに気づいた時にはインフレが再燃しているというものだ。
+そうなれば、インフレ率を2%に戻すチャンスを失うことになる。だから、そのリスクを回避しなければならない。そのリスクを回避するには、慎重に動く必要があるということだ。
+もう一つのリスクは、あまりにもゆっくりと動くことで、労働市場が弱体化し過ぎてしまうことだ。労働市場と人々の労働生活に不必要なダメージを与えてしまう。つまり、後れを取らないということだ。これら2つのリスクを管理しなければならない。我々は中間を目指している。中間を目指し、両方に対処し、両方を再び管理する。
+考え方は、労働市場と経済における強みを維持すること、そして、やや緩和的ながらも依然として制限的な政策によって、2%のインフレ目標に向けたさらなる進展を可能にすることだ。我々は、正しい道筋とは何かを評価していくつもりだ。つまり、こうしたことの正確なタイミングはそれほど重要ではない。全体的な方向性や、現在の状態からより中立的な政策へと移行するという方向性が重要なのである。それがどこなのかは正確にはわからない。我々は、その成果によってのみそれを知ることができる。我々は、それが今よりも低い水準にあることはほぼ確信している。しかし、さらに進むにつれ、それがどこなのかについて、より不確実性が高まるだろう。我々は慎重に動くつもりだ。このプロセスが進むにつれ、我々は正しい判断を下す可能性を高めることができるだろう。
+
+エコノミスト誌のサイモン・パウエル議長、ありがとう。
+債券利回りの分解を共有したくないのは分かる。しかし、ブレークイーブンを見ると、長期インフレ期待が上昇していることは明らかだ。2.5％程度に上昇している。例えば5年物で、9月に利下げしたときから0.5％ポイント上昇している。長期インフレ期待がデ・アンカー化していることについて、懸念はないのか？あるいは、別の言い方をすれば、より高い水準でアンカーされているということだろうか？ ありがとう。
+
+パウエル
+もし、より高い水準で長期インフレ期待がアンカーされていると我々が考えた場合、我々は懸念することになるだろう。我々が見ているのはそうではない。我々は依然として、調査と市場の読み取り値の間で、概ね一致しているものを見ている。今日、私は5年物を見直したが、おそらく動いているだろうが、それはちょうど、これまでとほぼ同じ場所にある。また、PCEインフレ率2％ともほぼ一致している。これは我々がよく見る伝統的なものの一つだが、全体的な期待は、この間ずっと2%のインフレと一致する場所にあるようだ。しかし、あなたが言うように、我々はそれを非常に注意深く見守っている。我々はインフレ期待が上昇することを許さないだろう。しかし、2022年に我々が急激に反応したのは、まさにそれを避けるためだった。
+
+パウエル議長 ケリー・オグレディ CBSニュース
+先ほどは経済について企業経営者から聞いたことをお話ししたが、多くの一般アメリカ人は依然として財布に経済の好調さを感じていない。彼らに救済が期待できる時期について、どのようなメッセージを送るのか？
+パウエル
+確かに、経済は好調だと言っているが、物価の高騰の影響を人々が依然として感じていることも知っている。世界はグローバルなインフレショックを経験し、どこもかしこもインフレが起こった。そして、物価水準は下がらないため、その影響は残る。
+つまり、人々が景気回復を実感するには、実質賃金が何年か上昇し続けなければならない。そして、それがまさに私たちが目指していることだ。そして、私は、私たちはその実現に向けて順調に歩んでいると思う。インフレ率は大幅に低下し、経済は依然として堅調で、賃金も上昇している。しかし、持続可能なレベルでの上昇だ。つまり、必要なことが起こり、ほとんどの部分では起こっていると思う。
+しかし、人々が自信を取り戻し、それを実感できるようになるにはまだしばらく時間がかかるだろう。そして、我々は人々に経済についてどう感じるべきかを指示することはない。我々は彼らの感情を完全に尊重する。それらの感情は真実であり、正確である。我々はそれを疑わない。我々は、トランプ次期大統領があなたの業績を批判していることについて懸念している。連邦準備制度の独立性に対する彼の影響について懸念している。今日は政治的な話には一切触れないつもりだが、
+
+ありがとう。ハイ、パウエル議長。ナンシー・マーシャルがマーケットから
+スタグフレーションが始まった場合のあなたの計画は？
+パウエル
+つまり、それはつまり、スタグフレーションを起こさないことが全体の計画であり、そうすれば対処する必要がない。それが我々の計画だ。もちろん、非常に難しいことだ。金利をどうするかによって、インフレ目標か雇用目標のどちらかが傷つくことになる。インフレ率は大幅に低下し、目標値にかなり近づいている。ディスインフレ政策に伴ってしばしば発生するような急激な失業率の増加もなく、ここまでやってきた。木にノックして、ここまでやってきた。労働市場の弱体化も見られず、インフレ対策も完了できると信じている。労働市場を強く保ちながら、もちろん、それこそがまさに我々が試みていることだ。
+
+質問
+来年の利上げはあり得ないということか？
+
+パウエル
+いいや、それほど遠い将来のことなら、あり得るともなしともしないが、それは確かに我々の計画ではない。つまり、我々の基本シナリオは、経済が中立金利に向かって徐々に低下し、経済が健全なペースで成長を続け、労働市場が堅調を維持するというものだ。9月時点から変更はない。これが我々の基本シナリオであり、予見可能な将来にわたって、何らかの外生的な事象が起こらない限り、この予測は変わらないだろう。しかし、最終的には、我々は1年も前から物事を排除できるような世界にはいない。我々の行動にはあまりにも多くの不確実性がある。私は、あなたが過去数年にわたる累積的な物価上昇について、アメリカ人がかなり不満を抱いていると述べたコメントに戻りたい。たとえ今インフレが2%に向かって回復しているとしても、平均的なインフレ目標体制の下で、FRBがしばらくインフレ目標を下回ることは適切だろうか？そうすれば、人々は追いつくチャンスがある。いや、それは我々の枠組みの働き方ではない。我々は2%のインフレを目指している。意図的に目標を下回ることは適切ではないと考えている。そして、問題の一部は、低インフレも問題になり得るということだ。ある意味では、だが、それは我々の枠組みの一部ではないし、枠組みの見直しでも検討するつもりはない。ありがとうございました。
