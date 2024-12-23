@@ -1,0 +1,86 @@
+Q
+Okay, we have a lot to dig into here about the economy next year with Jan Hatzius, the chief economist at Goldman Sachs, who has really been one of the few to call the economy correctly in the past few years. You know, at a time when it seemed like every investor or analyst I was chatting with was calling for a recession, Jan correctly said that we were heading towards a soft landing and it certainly seems like that's been the case. We're going to dive into all of that, but let's introduce ourselves first. 
+Q
+I'm Telis Demos. I write for the journal's Heard on the Street column. 
+Q
+And I'm Gunjan Banerjee, lead writer for Markets here at The Wall Street Journal. And this is WSJ's Take on the Week, where we're giving you a leg up on the world of money and investing. Each week, we're bringing you conversations with insiders about markets, the economy, and finance. 
+Q
+Jan, we are so excited to have you on today. 
+A
+It's wonderful to be with the two of you, and I look forward to the conversation. 
+Q
+So let's jump right in. As we mentioned, you have correctly held this optimistic outlook on the economy, and yet you've also mentioned that the single biggest risk right now to that soft landing thesis is tariffs. Trump enacted tariffs during his last administration. Why would they be such a big deal this time around? 
+A
+I think a lot depends on the size. In the last administration, ultimately, the increase in the average U.S. tariff rate on all imports, if you translate the China tariffs and the steel tariffs and these various other product-specific tariffs into an overall measure, was a couple percentage points. You went from kind of 1.5% to 3.5% for the average tariff rate. That's not a huge deal. 
+And relative to many of the other positive things that happened during the first Trump term, and the economy generally did very well for a variety of reasons, there was a significant fiscal boost from the 2017 tax cuts. It just wasn't as important as all those positive things. 
+And actually, our baseline expectation is that we'll see something similar again in 2025 with a bigger increase in tariffs than in the first administration, but not a massively bigger increase. 
+We're expecting, you know, roughly a 20 percentage point increase in the average tariff rate on imports from China, and then we have some more targeted auto tariffs on Europe and electric vehicle tariffs on Mexico in our baseline. So that gives you an overall increase, again, if you translate it into the overall tariff rate, of about 3.5 percentage points. 
+And in my view, that's probably manageable. And we still expect the economy to grow 2.5% in that kind of environment, and we still expect gradual disinflation in that environment. 
+The risk case is one in which, in addition to these tariffs, we also get a bigger across-the-board tariff, say, 10 percentage points. That would probably deliver a bigger hit to growth and also a reacceleration in inflation, at least for a period of time. So I would be more concerned about that. 
+Q
+And what about immigration? What might Trump's policies mean for prices for everyday Americans? 
+A
+I think directionally, that is also potentially a hit to supply. We are already seeing a sharp pullback in net immigration into the U.S. The last couple of years have been featuring, you know, numbers of as much as 3 million plus for 2023, for example. That's already coming down, but we're probably going to see further declines, both in terms of the inflow and we're looking for deportations that, you know, bring down the net immigration rate further. 
+Now, our expectation, again, is not so dramatic. We're looking for, you know, maybe 750,000 net immigration into the United States in 2025. That compares with a historical average of about 1 million, though, as I said, it's far below the sort of levels that we had back in 2023. So I think it's a modest negative on growth. 
+But I'd also say there are also some significant positives. On the fiscal side, we expect an extension of the 2017 tax cuts and some targeted additional tax cuts, both personal and business. And on the regulatory front, we'll also see, you know, basically business-friendly changes in a few areas that, you know, should have some positive effect on growth as well. 
+Q
+So tariffs, immigration, those policies could increase prices, but not enough to hurt the economy meaningfully. 
+A
+That's right. At least not substantially. So on the inflation side, just to quantify these things, we're looking for core PCE inflation at 2.4% in late 2025. We revised that up from 2.1. And the 30 basis point difference is the impact of tariffs. 
+At the FOMC meeting last week, they made a similar kind of adjustment of about 30 basis points. It's a little harder to tell how much of that is tariffs, but it's the same order of magnitude. 
+Q
+So you're talking about the Federal Reserve this past week made its anticipated quarter point cut. But the real news was that in the – essentially the forecast of the sort of the consensus of Fed officials, it looked like they were penciling in two cuts next year in 2025, whereas the market was sort of expecting three and you've been expecting three. You've stuck with that call. But given the risks about what you've said about the potential of across the board tariffs, some other policy uncertainties and the inflationary impact those things would have, what makes you still feel good about that three cuts call? What made you stick with it? Is it just something kind of core strength of the economy? 
+A
+It's a couple of things. On the inflation side, I think the reason why Fed officials lifted their interest rate projections, I think it's twofold. 
+One, we did have some higher monthly inflation numbers in September and October. So less progress than they had anticipated in the late part of 2024. 
+And then number two, some of them built in tariffs into their baseline and Chair Powell talked about it during the press conference. I'm not that worried about the higher September, October inflation numbers, in part because November already looks like it's going to look better than September and October. 
+And in part because I think a lot of the underlying reasons for disinflation are still intact, in particular, the rebalancing in the labor market and the deceleration in wage growth. That makes it, just in terms of the narrative, for me hard to see how we're reversing this underlying inflation process. 
+And I think if you listen to Powell during the press conference, that seems to be where he's coming out as well. And I agree with that. 
+Q
+And you've highlighted some aspects of inflation that are sort of lagging. The prices that were sticky and will eventually come down, but just didn't quite line up with the more sort of fundamental kind of like wage-driven type inflation. And those are things like auto insurance. Do you think that those things are still kind of moving in the right direction, those stickier elements that will maybe kind of help? You're still calling for the inflation rate to be lower at the end of this year than it is now. Will those things play into it? 
+A
+Yeah. Next year, we think we're going to be down to 2.4% from 2.8% now. So the distance to the 2% target we think is going to have. And as you say, one reason for this is that the backward-looking catch-up inflation in areas where prices only get adjusted maybe once a year is sort of gradually petering out. 
+And in particular, I would expect a smaller January effect with increases in prices from December to January that are not as dramatic as they were in 2023 and 2024. And that should result in a drop in the year-on-year inflation rate because you're basically kicking out a big increase in January 24 and replacing it with a smaller increase in January 25. 
+And I think that's going to make it optically look better because, you know, people often look at the year-on-year rate, and that will be making more progress. 
+Q
+So that gives you some confidence in sort of forecasting it out. Well, let's take a quick break. We're going to have more soon with Goldman Sachs Chief Economist Jan Hatzius. 
+Q
+So Jan, one defining feature of the strong economy the past few years has been rising share prices, rising home prices, rising crypto prices. These things have made a lot of Americans feel a lot richer. What role does what people call the wealth effect, that is, you've got more wealth, not necessarily more income, but more wealth behind you, and that gives you the confidence to spend more. What role is that playing in the economy right now? 
+A
+I think it is an important supplement to spending strength, and clearly we've seen a big rise to basically historical highs in the ratio of household wealth to income. That's often an important indicator that economists look at for the overall wealth effect that sort of summarizes the different components that you mentioned. 
+It probably is contributing at least several percentage points to consumer spending growth and has been contributing to consumer spending growth because we've seen a pretty strong asset market and pretty strong wealth increases for the last couple of years as it became clear increasingly that the economy was going to be able to...that we were able to bring down inflation without a recession. 
+So that's been helpful, but I'd still say that income is the most important driver of spending, and income's also been pretty favorable. We've seen real disposable personal income growth of close to 3%, and even more than that in 2023, you know, a strong rebound that also helped spending. 
+A
+And I just want to highlight that word real that you used, real meaning versus nominal, and so real essentially means, correct me if I'm wrong, that income has risen faster than inflation. So people's actual money has outpaced their costs. So that's an important distinction, right? 
+Q
+That's right. Of course, there was a period in 2021-2022 when we had this really dramatic surge in inflation when prices were rising much faster than nominal wages, and a lot of people are still feeling the aftereffects of that, and they might not be comparing their real or inflation-adjusted income with where it was a year ago. Maybe they're comparing it with where it was four years ago or five years ago and might still feel we're in the hole. 
+This is definitely consistent with what you see in the data, but what I'm saying is that over the last year or two, we've actually seen a much bigger decline in price inflation than in wage inflation, meaning that, you know, wages are now growing, real wages are growing at a good pace, and overall real income from labor and other sources is also growing at a good pace. 
+A
+So I know people always say that the stock market isn't the economy, and clearly incomes are more important. That being said, with the market at highs and household allocations to stocks close to, you know, the highest levels on record, are the economy's fortunes more tied to the stock market than they have been in the past? 
+Q
+I think they're probably a little more tied to the stock market, I would agree with that. It's one aspect of the economic outlook, and there are interplays that go in both directions, but there's definitely a wealth effect that can go in either direction. 
+Of course, the stock market also discounts how the economy is likely to perform, not just this year, but really over a long period, and there's feedback, you know, from the performance of the economy into the stock market and the other way, and a lot of what market strategists and Wall Street economists do is try to figure out all the different arrows of causation and try to quantify them between the stock market, other financial markets, and the economy. So this is really what we spend much of our day, you know, trying to assess. 
+Q
+Backing up a little bit, are we now beginning, like, a more natural economic cycle? Are we still in the post-pandemic period? I just want to get some broader perspective on, like, what kind of economy do we have these days? Has it become clearer recently? 
+Q
+Yeah, and are we at, like, are we at the end of a recovery or at the start of a new one? 
+A
+I think it's very difficult to say what phase of the cycle we're in because it's such an unusual cycle. If you talk about the phase of the cycle, that's almost assuming that there is sort of a, you know, a predictability where if you're in this phase of the cycle, this is what happens next. 
+But when you've had such an unusual recovery from, you know, all of these negative things that happened at different points during the COVID cycle, it's, I think, a little bit harder to know. But what I can say is that the economy looks to be in a reasonable equilibrium. And if there were no major impulses, let's say, positive or negative, my best estimate would be that we'll grow at roughly a trend pace, maybe a little bit more than a trend pace, and inflation kind of levels out at somewhere around 2%. 
+That's not normally what happens because typically there are events, and they can be policy events or they can be other shocks, and we certainly live in a world in which there are plenty of potential shocks. But if left unperturbed, yeah, I think we're reasonably close to equilibrium. 
+Q
+We're going to take a final break. And when we come back, we're going to ask Jan one last question. 
+Q
+When people find out that you're an economist at a dinner party, what is the number one question they pepper you with? 
+A
+It depends on where we are in the cycle. I mean, certainly there have been a lot of questions about, you know, about recessions and, you know, why are we not expecting a pretty deep recession just given how high inflation had risen. 
+Right now, I'd say probably the biggest question is around the budget deficit and, you know, the path for U.S. federal debt and, more broadly, public debt in many places. Is that going to cause a big crisis? We're coming to the end of our podcast. It would be a long discussion, and there are definitely some concerns, but I generally say, you know, there's still a path. There needs to be an adjustment, but it is an adjustment that can still happen. 
+But that's probably the biggest economic issue that is on people's minds. 
+Q
+People are asking you about the budget deficit at dinner parties. 
+A
+It's sad, I know, but we're not called the dismal science for nothing. 
+Q
+Jan, there's going to be so much for us to watch in 2025. Thank you so much for being here today.
+A
+Wonderful to be here. Thanks so much for having me. 
