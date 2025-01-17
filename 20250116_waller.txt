@@ -1,0 +1,105 @@
+
+“Joining us now for CNBC exclusive is Federal Reserve Governor Chris Waller. Governor Waller, welcome to the show. Good to see you.
+
+Hi, Sara. Good to see you. Thanks for having me on.
+
+Well, it's good. It's good time for you to be here because we're in the middle of this raft of economic data. We had really strong jobs last week, some more benign inflation report in CPI yesterday, and then some mixed data today around retail sales and jobless claims.
+
+I'm just curious how you're interpreting it all and what kind of picture it's painting for you.
+
+Yeah, the inflation data that we got yesterday was very good. It's the sixth month out of the last eight where we think core PCE inflation will come in below 0.2, which is getting very close to what our 2% inflation target would be in terms of core. So the inflation is good.
+
+We had a couple of bumpy months there in September and October, but it looks like it's getting back to trend. We'll have to wait and see whether this continues. I believe it will be.”
+
+“We'll see some base effects come out. But last year, we got a shock with inflation in January and February. They kind of put us back in terms of our progress for cutting rates.
+
+I'm hoping that doesn't happen again so that if we continue getting numbers like this, it's reasonable to think that possibly rate cuts could happen in the first half of the year.
+
+Rate cuts in the first half of the year. Market's not pricing that in. But that's what you're looking for?
+
+Well, I'm saying it depends if, and always the big word if, if the inflation data continues to come in like it has been. If we don't, if we get our surprise like we did last year, then we're going to have to stay on hold until we get inflation coming back down. But I'm optimistic that this deflationary, disinflationary trend will continue, and we'll get back closer to 2% a little quicker than maybe others were thinking.
+
+But that's my view.
+
+Why? What do you think is keeping it sort of stubbornly high? I mean, seeing shelter prices still up there, food prices are still rising a bit.”
+
+“But I'm just curious what you're watching that gives you confidence that you'll get to 2% sooner.
+
+Well, like I said, six of the last eight months, we're running close to, you know, not too far off a target. And I think there's no reason to expect that will reverse or change. So looking at the 12-month year-over-year numbers, it doesn't look like we made a lot of progress on inflation.
+
+But like I said, if you go over to the last six to eight months, in core, PC inflation has been coming down. And I think that will continue. Now we had a big shock last year, the beginning of the year.
+
+There's some concerns. There might be another one of these beginning of the year kind of price shocks. I'm hoping that doesn't happen.”
+
+“So if it doesn't happen and we continue to get through a couple of good months of data, then the base effects will kick out from last January and February. We'll see some further progress on inflation going into the second quarter of this year. So based on that, if inflation is down and the labor market stays solid, then you could start thinking about restarting rate cuts later, several months from now.
+
+Right, you're not talking about January. You're talking, I don't know, March. Does that sound reasonable?
+
+Well, January, we need to kind of see what's going to happen. The chair has said we're in really no rush to do things. We need to see a little more progress on inflation.
+
+This month was good, but we need to make sure we get through the turn of the year to make sure it continues. We'll have to wait and see. I don't think March could be completely ruled out, depending on what the data, but anything that kind of disrupts that, it's likely to push it back some.”
+
+“But as long as the data comes in good on inflation or continues on that path, then I can certainly see rate cuts happening sooner than maybe the markets are pricing in.
+
+And how many are we looking at this year?
+
+Well, again, that's all going to be driven by the data. I mean, if we make a lot of progress, you could do more. And it's also going to depend on where people think the neutral rate is.
+
+You know, there are people who think that we're a lot closer to neutral. And therefore, there's not as many possible cuts coming. Others have, if you look at the SEP, the median is a neutral of about three, which would imply you still got maybe four cuts, three cuts, depending on what the data tells you this year.
+
+Three or four cuts this year, you think, could be possible?
+
+It could be. It just hinges on the data. If the data doesn't cooperate, then you're going to be back to two and maybe even one, if we just get a lot of sticky inflation.”
+
+“I mean, the data has been pretty strong. Last week's jobs report, unemployment rate surprisingly fell, much more jobs created than expected. And the thinking there was, well, how restrictive is the Fed really?
+
+And does it need to be cutting if things are looking so good?
+
+Yeah, I think the jobs report last week, I think there was a little loss of memory that some of that is a makeup from the very near zero number we got in October. We knew there was going to be a rebound in the November and December reports. And that's basically what we see.
+
+So if you average through the last three months of the year, you're right at about 170,000, which is not much different than the previous quarters. In terms of looking at the market, yeah, the jobs number was good, a little tip down in the unemployment rate. That's been kind of moving sideways all year.
+
+But when you look at things like hiring rates, quit rates, wage growth, you're not seeing a labor market that's starting to overheat or accelerate. And that's why I think things are still restrictive. We're also seeing it in any interest rate sensitive “sectors, manufacturing, housing.
+
+We're seeing it in surveys of consumers that, you know, interest rates are affecting their decisions to buy kind of expensive, durable goods. So monetary policy is restrictive in exactly the way and in the areas we think it would be.
+
+So you're not as excited about the better data, in other words, the data that would suggest that the Fed doesn't need to cut. You see weakness, more weakness perhaps than the market perceives?
+
+Yeah, I think the labor market's not... Look, I'm happy jobs are up. I love it when people have work.
+
+But when you look at all the indicators in the labor market, it's solid. It's not booming. It's not falling.
+
+It's just a good, solid labor market. And we'll see if the jobs numbers continues. We're going to get BLS revisions next month that could take, you know, I've seen anywhere from 50 to 60,000 off, kind of headline numbers as they correct for methodology and estimating jobs.
+
+So that's something we'll have to take into effect. So the job numbers are probably unlikely to stay at those levels going forward.
+
+“What about the incoming administration? Clearly, you guys are discussing it, and potentially inflationary policies, like tariffs. We'll see what we get and how we get it.
+
+Hard to know right now. Tighter immigration policy. Does that factor into your view of where inflation is going to go and what policy should look like?
+
+Well, we know with kind of certainty what we're going to get. We're going to get more tariffs, we're going to get immigration controls, and we're going to get more of a deregulatory environment. All of those things are fairly certain.
+
+What's very hard to do is map that into forecasted numbers, like inflation, unemployment, GDP growth. We know kind of qualitatively what they might do, but until we actually see what the administration does, it's going to be very hard to put a number on anything going forward. I mentioned last week, based on kind of what I have heard and expected, I don't think tariffs are going to have a significant impact or persistent effect on inflation, but we'll just have to wait and see what actually happens.”
+
+“Why don't you think that they would have an impact on inflation? If American importers have to pay more, if importers have to pay more, doesn't that get transferred on the consumer?
+
+Well, some of it potentially can, and on the other hand, the firms also don't necessarily mark up prices for fear of market share, losing customers and whatnot. We saw that with a lot of the tariffs in the first administration, that there wasn't a lot of pass-through, except for a few items like washing machines and a few others. So we did see evidence that this was not fully passed through, and I think that's why most of the street estimates, I was up in New York on Monday asking questions about this, and most of the street estimates are it's going to have some marginal effect and short-lived effect on prices, because if it happens, it's typically a level effect.
+
+It's not persistent inflation, and that's where I think most forecasts are. They don't see it being a huge inflationary impact.”
+
+“This is a very dovish view, Governor Waller. Have you, what, I feel like you start, you came into the Fed, and you were a little more hawkish, and people really pay attention to you as sort of a thought leader in the committee. I'm curious if the rest of your colleagues feel as you do and are as itchy to be cutting rates as you sound to be.
+
+Well, I make all my policy decisions based on the date and where I think the date is coming in. Right now, I think inflation is going to continue to come in towards our target. The year-over-year stickiness that we saw in 2024, I think will start to dissipate based on, like I said, what we've seen in the last six to eight months, plus with base effects coming out.
+
+So I may be a little more optimistic about inflation coming down than the rest of my colleagues, and that's what's driving my outlook for the path for policy. But I don't speak for the committee. I don't speak for the chair.
+
+These are just my own views.”
+
+“And really quickly, do you expect any broader economic effect, GDP effect, from the California wildfires and the devastation at such large scale?
+
+Yeah, it's always very disheartening to see this kind of damage and destruction to human beings and property. And it's going to have a big effect locally, but in the aggregate, it's just not going to have a huge impact on the aggregate economy, much like the hurricanes have temporary disruptive effects. But you have to, again, these are things we typically look through because we know they're not long-lasting.
+
+Governor Waller, thank you very much for the time today, really appreciate it.
+
+Thank you, Sara, and thanks for having me on, I appreciate it.”
+
